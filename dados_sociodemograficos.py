@@ -61,7 +61,7 @@ def mostrar():
         caract_etaria = ['0 a 4 anos', '5 a 9 anos', '10 a 14 anos', '15 a 19 anos', '20 a 49 anos', '50 a 64 anos', 'acima de 65 anos']
         st.bar_chart(dados_bairros_selecionados[caract_etaria], height=400, x_label='Bairros', y_label='Porcentagem')
 
-        st.write("*Dados obtidos a partir do senso de 2010*")
+        #st.write("*Dados obtidos a partir do senso de 2010*")
 
 
         st.divider()
