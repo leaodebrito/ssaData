@@ -6,6 +6,7 @@ import numpy as np
 
 import dados_sociodemograficos
 import equip_urbanos
+import pagina_inicial
 
 # Configuração da página
 st.set_page_config(page_title="SSA Dados", layout="wide")
@@ -15,6 +16,10 @@ def main():
     #st.sidebar.image("logo.png", use_column_width=True)
 
     # Menu de navegação
+    st.sidebar.title("Navegação")
+    st.sidebar.divider()
+    st.sidebar.write("Selecione a página desejada:")
+
     page = st.sidebar.selectbox("Navegação", 
                                 ["Página Inicial", 
                                  "Dados sócio-demográficas", 
@@ -22,30 +27,13 @@ def main():
 
     # Conteúdo das páginas
     if page == "Página Inicial":
-        st.title("Bem-vindo(a),")
-        st.write("Abaixo um resumo de seus projetos")
-
-        # Seção: Preços de venda
-        st.markdown("### Preços de venda")
-        col1, col2, col3 = st.columns(3)
-
-        with col1:
-            if st.button("Apartamentos"):
-                st.write("Dados sobre preços de venda de apartamentos.")
-        
-        with col2:
-            if st.button("Casas"):
-                st.write("Dados sobre preços de venda de casas.")
-        
-        with col3:
-            if st.button("Terrenos"):
-                st.write("Dados sobre preços de venda de terrenos.")
+        pagina_inicial.mostrar()
 
     elif page == "Dados sócio-demográficas":
         dados_sociodemograficos.mostrar()
 
     elif page == "Equipamentos urbanos":
-        equip_urbanos.mostrar_pagina()
+        equip_urbanos.mostrar()
 
     st.divider()
 
