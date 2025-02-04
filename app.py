@@ -16,11 +16,11 @@ def main():
     #st.sidebar.image("logo.png", use_column_width=True)
 
     # Menu de navegação
-    st.sidebar.title("Navegação")
+    st.sidebar.image('assets/farol_salvador.png')
+    st.sidebar.title("SSA Dados")
     st.sidebar.divider()
-    st.sidebar.write("Selecione a página desejada:")
 
-    page = st.sidebar.selectbox("Navegação", 
+    page = st.sidebar.selectbox("Selecione a página desejada:", 
                                 ["Página Inicial", 
                                  "Dados sócio-demográficas", 
                                  "Equipamentos urbanos"])

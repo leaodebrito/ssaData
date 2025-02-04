@@ -5,21 +5,28 @@ import numpy as np
 
 
 def mostrar():
-        st.title("Bem-vindo(a),")
-        st.write("Abaixo um resumo de seus projetos")
+        st.title("Plataforma SSA Dados")
+        st.write("Explorando Salvador através da Arquitetura e dos Dados")
 
-        # Seção: Preços de venda
-        st.markdown("### Preços de venda")
-        col1, col2, col3 = st.columns(3)
+        st.divider()
 
-        with col1:
-            if st.button("Apartamentos"):
-                st.write("Dados sobre preços de venda de apartamentos.")
-        
-        with col2:
-            if st.button("Casas"):
-                st.write("Dados sobre preços de venda de casas.")
-        
-        with col3:
-            if st.button("Terrenos"):
-                st.write("Dados sobre preços de venda de terrenos.")
+        st.write("""
+                 A Plataforma SSA Dados é uma ferramenta inovadora voltada para a análise e compreensão do espaço urbano de Salvador. Desenvolvida para apoiar o aprendizado e a prática dos estudantes de Arquitetura e Urbanismo, a plataforma oferece uma base estruturada de dados sociodemográficos e equipamentos urbanos, permitindo que os usuários investiguem diferentes bairros da cidade e fundamentem suas propostas arquitetônicas com embasamento técnico e analítico.
+
+                    A plataforma possibilita a exploração interativa de informações sobre:
+                    - perfil populacional, 
+                    - densidade habitacional, 
+                    - infraestrutura e 
+                    - distribuição de serviços urbanos, 
+                 
+                 Fornecendo um panorama detalhado das dinâmicas territoriais de Salvador. Com essa abordagem, os estudantes podem identificar demandas específicas de cada bairro, propor intervenções arquitetônicas mais eficientes e contribuir para soluções urbanas mais sustentáveis e inclusivas.
+                 Além de ser um repositório de dados, a SSA Dados busca incentivar uma abordagem baseada em evidências, promovendo a integração entre tecnologia, urbanismo e tomada de decisão informada. Dessa forma, a plataforma se torna um suporte essencial para a concepção de projetos arquitetônicos alinhados às reais necessidades da cidade e de seus habitantes.
+                 """)
+
+
+        st.divider()
+
+        st.write("""
+                Projeto em desenvolvimento por:
+                - Bruno Leão de Brito
+        """)

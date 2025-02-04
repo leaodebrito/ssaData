@@ -37,56 +37,37 @@ def mostrar():
     dados_bairros_selecionados['Domicilios por hectare'] = dados_bairros_selecionados['Total de domicílios'] / (dados_bairros_selecionados['Área (ha)'])
 
 
-
-        # Exibir os dados dos bairros selecionados
     # Exibir os dados dos bairros selecionados
     if not dados_bairros_selecionados.empty:
-        st.write("Informações dos bairros selecionados:")
-        st.write(dados_bairros_selecionados)
 
-        # Criar colunas para os gráficos
+        st.map(dados_bairros_selecionados, latitude='Latitude', longitude='Longitude', use_container_width=True, height=500, size=180)
+
+
+
+        st.divider()
+
         col1, col2 = st.columns(2)
-
-        # Gráfico de área e densidade populacional
         with col1:
-            st.subheader("Caracterização étnica dos bairros")
-            caract_etnica = ['% Branca', '% Preta', '% Amarela', '% Parda', '% Indígena']
-            fig = graph.plot_barra_empilhada(dados_bairros_selecionados, 'BAIRRO', caract_etnica)
-            st.pyplot(fig)
-
-        # Gráfico de caracterização etária dos bairros
+            st.write("### População por Bairro")
+            st.bar_chart(dados_bairros_selecionados, x_label='Bairros', y_label='População', x='BAIRRO', y='População segundo o Censo de 2010', height=400)
         with col2:
-            st.subheader("Caracterização etária dos bairros")
-            faixas_idade = ['0 a 4 anos', '5 a 9 anos', '10 a 14 anos', '15 a 19 anos', '20 a 49 anos', '50 a 64 anos', 'acima de 65 anos']
-            fig = graph.plot_barra_empilhada(dados_bairros_selecionados, 'BAIRRO', faixas_idade)
-            st.pyplot(fig)
+            st.write("### Densidade Populacional por Bairro")
+            st.bar_chart(dados_bairros_selecionados, x_label='Bairros', y_label='Densidade Populacional', x='BAIRRO', y='DENSIDADE POPULACIONAL', height=400)
+
+        st.write("### Caracterização étnica dos bairros")
+        caract_etnica = ['% Branca', '% Preta', '% Amarela', '% Parda', '% Indígena']
+        st.bar_chart(dados_bairros_selecionados[caract_etnica], height=400, x_label='Bairros', y_label='Porcentagem')
+
+        caract_etaria = ['0 a 4 anos', '5 a 9 anos', '10 a 14 anos', '15 a 19 anos', '20 a 49 anos', '50 a 64 anos', 'acima de 65 anos']
+        st.bar_chart(dados_bairros_selecionados[caract_etaria], height=400, x_label='Bairros', y_label='Porcentagem')
+
+        st.write("*Dados obtidos a partir do senso de 2010*")
+
 
         st.divider()
-
-        # Gráfico de caracterização étnica dos bairros
-        with col1:
-            st.subheader("Área dos bairros e densidade populacional")
-            fig = graph.plot_barra_linha(dados_bairros_selecionados, 'BAIRRO', 'Área (ha)', 'DENSIDADE POPULACIONAL')
-            st.pyplot(fig)
-           
-
-        # Gráfico de total de domicílios
-        with col2:
-            st.subheader("Total de domicílios")
-            fig = graph.plot_barra_linha(dados_bairros_selecionados, 'BAIRRO', 'Total de domicílios', 'Total de domicílios próprios', label_y='Total de domicílios')
-            st.pyplot(fig)
-
-        st.divider()
-
-        # Gráfico de distribuição de domicílios e rendimento médio
-        with col1:
-            st.subheader("Distribuição de domicílios e Rendimento médio")
-            fig = graph.plot_barra_linha(dados_bairros_selecionados, 'BAIRRO', 'Domicilios por hectare', 'Rendimento médio atualizado')
-            st.pyplot(fig)
-
-
-
-
+        st.write("### Dados dos bairros selecionados")
+        st.write("Baixe os dados dos selecionados")
+        st.write(dados_bairros_selecionados)
 
     else:
         st.write("Nenhuma informação encontrada para os bairros selecionados.")
