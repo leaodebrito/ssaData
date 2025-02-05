@@ -1,77 +1,376 @@
 WKT,nome,descrição,Tipo,cor,longitude,latitude
-POINT (-38.4416343 -12.914949),INTER SOCCER Academia de futebol - Unidade Pau da Lima,,Campo de futebol,#FF5733,-38.4416343,-12.914949
-POINT (-38.4742498 -12.9702464),Champion Multi Arena,,Campo de futebol,#FF5733,-38.4742498,-12.9702464
-POINT (-38.39398320000001 -12.9412065),Arena Golaço,,Campo de futebol,#FF5733,-38.39398320000001,-12.9412065
-POINT (-38.3568063 -12.8708852),Campo Chuteira Cansada,,Campo de futebol,#FF5733,-38.3568063,-12.8708852
-POINT (-38.4208117 -12.9765565),Campos de Futebol - Boca do Rio,,Campo de futebol,#FF5733,-38.4208117,-12.9765565
-POINT (-38.3651082 -12.9342279),Arena Km 17 - Campo de Futebol,,Campo de futebol,#FF5733,-38.3651082,-12.9342279
-POINT (-38.306588 -12.8773888),Arenas Evo Unidade Villas,,Campo de futebol,#FF5733,-38.306588,-12.8773888
-POINT (-38.4717979 -12.9757947),Point da Bola,,Campo de futebol,#FF5733,-38.4717979,-12.9757947
-POINT (-38.4077351 -12.9276314),Campo De Futebol,,Campo de futebol,#FF5733,-38.4077351,-12.9276314
-POINT (-38.4135059 -12.971881),Arena Guanabara,,Campo de futebol,#FF5733,-38.4135059,-12.971881
-POINT (-38.4713768 -12.9773555),Ponto 1,,Centro comunitário,#33FF57,-38.4713768,-12.9773555
-POINT (-38.36029049999999 -12.9341526),Centro Comunitário Ágape,,Centro comunitário,#33FF57,-38.36029049999999,-12.9341526
-POINT (-38.4525988 -12.8509252),Centro Comunitário Fazenda Coutos,,Centro comunitário,#33FF57,-38.4525988,-12.8509252
-POINT (-38.4671866 -12.8608192),Centro Comunitário Arnaldo Anselmo,,Centro comunitário,#33FF57,-38.4671866,-12.8608192
-POINT (-38.5026349 -12.9966087),Centro Comunal do Parque São Bráz,,Centro comunitário,#33FF57,-38.5026349,-12.9966087
-POINT (-38.460348 -13.0018527),Centro Comunitário da Pituba Padre Casimiro Quiroga,,Centro comunitário,#33FF57,-38.460348,-13.0018527
-POINT (-38.4977671 -12.9962275),CSU - Centro Social Urbano da Federação,,Centro comunitário,#33FF57,-38.4977671,-12.9962275
-POINT (-38.4627099 -12.8412198),CENTRO COMUNITÁRIO DO BATE CORAÇÃO,,Centro comunitário,#33FF57,-38.4627099,-12.8412198
-POINT (-38.4399135 -12.9593199),Centro Social Urbano de Narandiba,,Centro comunitário,#33FF57,-38.4399135,-12.9593199
-POINT (-38.3596476 -12.9513504),Centro Social Paroquial Mons. Mario Rebuffoni,,Centro comunitário,#33FF57,-38.3596476,-12.9513504
-POINT (-38.3525688 -12.8906265),Centro Comunitário,,Centro comunitário,#33FF57,-38.3525688,-12.8906265
-POINT (-38.5237084 -12.9997346),Igreja Nossa Senhora da Graça,,Centro religioso,#3357FF,-38.5237084,-12.9997346
-POINT (-38.5197949 -12.9840986),Igreja Senhor Bom Jesus do Aflitos,,Centro religioso,#3357FF,-38.5197949,-12.9840986
-POINT (-38.4809331 -13.0054907),Igreja Matriz Cristo Redentor,,Centro religioso,#3357FF,-38.4809331,-13.0054907
-POINT (-38.5321295 -13.0013105),Igreja Santo Antônio da Barra,,Centro religioso,#3357FF,-38.5321295,-13.0013105
-POINT (-38.4739799 -13.0071833),Igreja Matriz Paróquia Santo André,,Centro religioso,#3357FF,-38.4739799,-13.0071833
-POINT (-38.5155526 -12.9832497),Paróquia de São Pedro,,Centro religioso,#3357FF,-38.5155526,-12.9832497
-POINT (-38.4601959 -12.993904),Igreja Batista Regular da Pituba,,Centro religioso,#3357FF,-38.4601959,-12.993904
-POINT (-38.3329467 -12.8887101),Igreja Primícias Das Nações,,Centro religioso,#3357FF,-38.3329467,-12.8887101
-POINT (-38.4573309 -12.9909218),Igreja Nossa Senhora da Assunção,,Centro religioso,#3357FF,-38.4573309,-12.9909218
-POINT (-38.4660994 -13.0107456),Igreja Batista Lírio dos Vales,,Centro religioso,#3357FF,-38.4660994,-13.0107456
-POINT (-38.5171269 -12.9817726),CEAD Centro Espírita Alma D'Ângelis.,,Centro religioso,#3357FF,-38.5171269,-12.9817726
-POINT (-38.5014375 -12.9615104),Centro Espírita Luz e Caridade,,Centro religioso,#3357FF,-38.5014375,-12.9615104
-POINT (-38.3607089 -12.9493107),Centro Espírita Estrela Guia de Itapuã,,Centro religioso,#3357FF,-38.3607089,-12.9493107
-POINT (-38.44635 -12.9330984),Casa do Caminho - Pronto Atendimento Espírita,,Centro religioso,#3357FF,-38.44635,-12.9330984
-POINT (-38.5123518 -12.9272236),Centro de Caridade Caboclo Capangueiro-CCCC,,Centro religioso,#3357FF,-38.5123518,-12.9272236
-POINT (-38.4701169 -13.0120999),Centro Espírita Seareiros da Luz,,Centro religioso,#3357FF,-38.4701169,-13.0120999
-POINT (-38.4915573 -12.9695052),Centro Espírita Deus Luz e Verdade,,Centro religioso,#3357FF,-38.4915573,-12.9695052
-POINT (-38.3031063 -12.8691047),Centro Espírita Amor e Sabedoria,,Centro religioso,#3357FF,-38.3031063,-12.8691047
-POINT (-38.5089974 -12.9730111),INSTITUTO KARDECISTA DA BAHIA,,Centro religioso,#3357FF,-38.5089974,-12.9730111
-POINT (-38.4674488 -13.0095415),Centro Espírita Paulo e Estevão,,Centro religioso,#3357FF,-38.4674488,-13.0095415
-POINT (-38.4596056 -13.0052338),Igreja Universal,,Centro religioso,#3357FF,-38.4596056,-13.0052338
-POINT (-38.4760042 -12.9321007),Igreja Universal,,Centro religioso,#3357FF,-38.4760042,-12.9321007
-POINT (-38.4766891 -13.0039643),Igreja Universal,,Centro religioso,#3357FF,-38.4766891,-13.0039643
-POINT (-38.4442411 -12.9336591),Igreja Universal,,Centro religioso,#3357FF,-38.4442411,-12.9336591
-POINT (-38.3625121 -12.938472),Igreja Universal,,Centro religioso,#3357FF,-38.3625121,-12.938472
-POINT (-38.5151679 -12.9783526),Igreja Universal,,Centro religioso,#3357FF,-38.5151679,-12.9783526
-POINT (-38.4904406 -12.9464549),Igreja Universal - Liberdade,,Centro religioso,#3357FF,-38.4904406,-12.9464549
-POINT (-38.4452679 -12.9466457),Igreja Universal,,Centro religioso,#3357FF,-38.4452679,-12.9466457
-POINT (-38.4707537 -12.9765347),Igreja Universal,,Centro religioso,#3357FF,-38.4707537,-12.9765347
-POINT (-38.4795854 -12.942445),Igreja Universal,,Centro religioso,#3357FF,-38.4795854,-12.942445
-POINT (-38.510355 -12.9727852),Catedral-Basílica Primacial de São Salvador,,Centro religioso,#3357FF,-38.510355,-12.9727852
-POINT (-38.5019915 -12.9689958),Catedral da Bênção,,Centro religioso,#3357FF,-38.5019915,-12.9689958
-POINT (-38.4672617 -12.9807913),Igreja Universal | Catedral,,Centro religioso,#3357FF,-38.4672617,-12.9807913
-POINT (-38.3391733 -12.9434644),Cathedrall,,Centro religioso,#3357FF,-38.3391733,-12.9434644
-POINT (-38.3474013 -12.9319875),Catedral dos Milagres Church,,Centro religioso,#3357FF,-38.3474013,-12.9319875
-POINT (-38.51156439999999 -12.9809014),Padaria Piedade,,Padaria,#FF5733,-38.51156439999999,-12.9809014
-POINT (-38.501116 -13.0069895),Padaria Sabor Real,,Padaria,#FF5733,-38.501116,-13.0069895
-POINT (-38.50736360000001 -12.9792536),Padaria Sr. Afonso,,Padaria,#FF5733,-38.50736360000001,-12.9792536
-POINT (-38.5199188 -12.9876554),Padaria Favorita,,Padaria,#FF5733,-38.5199188,-12.9876554
-POINT (-38.5138807 -13.0015868),Padaria Mega Pão,,Padaria,#FF5733,-38.5138807,-13.0015868
-POINT (-38.4627268 -13.0018586),Paneville Padaria Gourmet - Pituba Salvador,,Padaria,#FF5733,-38.4627268,-13.0018586
-POINT (-38.5111029 -12.9763384),Padaria e mercado Paris,,Padaria,#FF5733,-38.5111029,-12.9763384
-POINT (-38.3204825 -12.8789553),Padaria Novo Pão,,Padaria,#FF5733,-38.3204825,-12.8789553
-POINT (-38.498176 -12.945856),Padaria Bom Gosto,,Padaria,#FF5733,-38.498176,-12.945856
-POINT (-38.4857253 -13.0126144),Padaria Yemanjá,,Padaria,#FF5733,-38.4857253,-13.0126144
-POINT (-38.5094604 -13.0075229),Ondina Delicatessen,,Padaria,#FF5733,-38.5094604,-13.0075229
-POINT (-38.5193431 -12.9978816),Deli & Cia,,Padaria,#FF5733,-38.5193431,-12.9978816
-POINT (-38.5172496 -13.0009639),Delicatessen Doce Pão,,Padaria,#FF5733,-38.5172496,-13.0009639
-POINT (-38.461197 -12.9856658),Sampaio Delicatéssen,,Padaria,#FF5733,-38.461197,-12.9856658
-POINT (-38.4337696 -12.964709),Clássica Delicatessen,,Padaria,#FF5733,-38.4337696,-12.964709
-POINT (-38.4817686 -12.9885595),Deli e Pão,,Padaria,#FF5733,-38.4817686,-12.9885595
-POINT (-38.4449799 -12.9857853),D’alinda Delicatessen,,Padaria,#FF5733,-38.4449799,-12.9857853
-POINT (-38.3226005 -12.8953135),Delipani Delicatessen,,Padaria,#FF5733,-38.3226005,-12.8953135
-POINT (-38.5302936 -13.0035447),Delicatessen Sabor do Porto,,Padaria,#FF5733,-38.5302936,-13.0035447
-POINT (-38.3714246 -12.9492432),Pão da Vila Padocatessen,,Padaria,#FF5733,-38.3714246,-12.9492432
+POINT (-38.4416343 -12.914949),INTER SOCCER Academia de futebol - Unidade Pau da Lima,,Campo de futebol,#EF1325,-38.4416343,-12.914949
+POINT (-38.4742498 -12.9702464),Champion Multi Arena,,Campo de futebol,#EF1325,-38.4742498,-12.9702464
+POINT (-38.39398320000001 -12.9412065),Arena Golaço,,Campo de futebol,#EF1325,-38.39398320000001,-12.9412065
+POINT (-38.3568063 -12.8708852),Campo Chuteira Cansada,,Campo de futebol,#EF1325,-38.3568063,-12.8708852
+POINT (-38.4208117 -12.9765565),Campos de Futebol - Boca do Rio,,Campo de futebol,#EF1325,-38.4208117,-12.9765565
+POINT (-38.3651082 -12.9342279),Arena Km 17 - Campo de Futebol,,Campo de futebol,#EF1325,-38.3651082,-12.9342279
+POINT (-38.306588 -12.8773888),Arenas Evo Unidade Villas,,Campo de futebol,#EF1325,-38.306588,-12.8773888
+POINT (-38.4717979 -12.9757947),Point da Bola,,Campo de futebol,#EF1325,-38.4717979,-12.9757947
+POINT (-38.4077351 -12.9276314),Campo De Futebol,,Campo de futebol,#EF1325,-38.4077351,-12.9276314
+POINT (-38.4135059 -12.971881),Arena Guanabara,,Campo de futebol,#EF1325,-38.4135059,-12.971881
+POINT (-38.4713768 -12.9773555),Ponto 1,,Centro comunitário,#7F3483,-38.4713768,-12.9773555
+POINT (-38.36029049999999 -12.9341526),Centro Comunitário Ágape,,Centro comunitário,#7F3483,-38.36029049999999,-12.9341526
+POINT (-38.4525988 -12.8509252),Centro Comunitário Fazenda Coutos,,Centro comunitário,#7F3483,-38.4525988,-12.8509252
+POINT (-38.4671866 -12.8608192),Centro Comunitário Arnaldo Anselmo,,Centro comunitário,#7F3483,-38.4671866,-12.8608192
+POINT (-38.5026349 -12.9966087),Centro Comunal do Parque São Bráz,,Centro comunitário,#7F3483,-38.5026349,-12.9966087
+POINT (-38.460348 -13.0018527),Centro Comunitário da Pituba Padre Casimiro Quiroga,,Centro comunitário,#7F3483,-38.460348,-13.0018527
+POINT (-38.4977671 -12.9962275),CSU - Centro Social Urbano da Federação,,Centro comunitário,#7F3483,-38.4977671,-12.9962275
+POINT (-38.4627099 -12.8412198),CENTRO COMUNITÁRIO DO BATE CORAÇÃO,,Centro comunitário,#7F3483,-38.4627099,-12.8412198
+POINT (-38.4399135 -12.9593199),Centro Social Urbano de Narandiba,,Centro comunitário,#7F3483,-38.4399135,-12.9593199
+POINT (-38.3596476 -12.9513504),Centro Social Paroquial Mons. Mario Rebuffoni,,Centro comunitário,#7F3483,-38.3596476,-12.9513504
+POINT (-38.3525688 -12.8906265),Centro Comunitário,,Centro comunitário,#7F3483,-38.3525688,-12.8906265
+POINT (-38.5237084 -12.9997346),Igreja Nossa Senhora da Graça,,Centro religioso,#28B1C3,-38.5237084,-12.9997346
+POINT (-38.5197949 -12.9840986),Igreja Senhor Bom Jesus do Aflitos,,Centro religioso,#28B1C3,-38.5197949,-12.9840986
+POINT (-38.4809331 -13.0054907),Igreja Matriz Cristo Redentor,,Centro religioso,#28B1C3,-38.4809331,-13.0054907
+POINT (-38.5321295 -13.0013105),Igreja Santo Antônio da Barra,,Centro religioso,#28B1C3,-38.5321295,-13.0013105
+POINT (-38.4739799 -13.0071833),Igreja Matriz Paróquia Santo André,,Centro religioso,#28B1C3,-38.4739799,-13.0071833
+POINT (-38.5155526 -12.9832497),Paróquia de São Pedro,,Centro religioso,#28B1C3,-38.5155526,-12.9832497
+POINT (-38.4601959 -12.993904),Igreja Batista Regular da Pituba,,Centro religioso,#28B1C3,-38.4601959,-12.993904
+POINT (-38.3329467 -12.8887101),Igreja Primícias Das Nações,,Centro religioso,#28B1C3,-38.3329467,-12.8887101
+POINT (-38.4573309 -12.9909218),Igreja Nossa Senhora da Assunção,,Centro religioso,#28B1C3,-38.4573309,-12.9909218
+POINT (-38.4660994 -13.0107456),Igreja Batista Lírio dos Vales,,Centro religioso,#28B1C3,-38.4660994,-13.0107456
+POINT (-38.5171269 -12.9817726),CEAD Centro Espírita Alma D'Ângelis.,,Centro religioso,#28B1C3,-38.5171269,-12.9817726
+POINT (-38.5014375 -12.9615104),Centro Espírita Luz e Caridade,,Centro religioso,#28B1C3,-38.5014375,-12.9615104
+POINT (-38.3607089 -12.9493107),Centro Espírita Estrela Guia de Itapuã,,Centro religioso,#28B1C3,-38.3607089,-12.9493107
+POINT (-38.44635 -12.9330984),Casa do Caminho - Pronto Atendimento Espírita,,Centro religioso,#28B1C3,-38.44635,-12.9330984
+POINT (-38.5123518 -12.9272236),Centro de Caridade Caboclo Capangueiro-CCCC,,Centro religioso,#28B1C3,-38.5123518,-12.9272236
+POINT (-38.4701169 -13.0120999),Centro Espírita Seareiros da Luz,,Centro religioso,#28B1C3,-38.4701169,-13.0120999
+POINT (-38.4915573 -12.9695052),Centro Espírita Deus Luz e Verdade,,Centro religioso,#28B1C3,-38.4915573,-12.9695052
+POINT (-38.3031063 -12.8691047),Centro Espírita Amor e Sabedoria,,Centro religioso,#28B1C3,-38.3031063,-12.8691047
+POINT (-38.5089974 -12.9730111),INSTITUTO KARDECISTA DA BAHIA,,Centro religioso,#28B1C3,-38.5089974,-12.9730111
+POINT (-38.4674488 -13.0095415),Centro Espírita Paulo e Estevão,,Centro religioso,#28B1C3,-38.4674488,-13.0095415
+POINT (-38.4596056 -13.0052338),Igreja Universal,,Centro religioso,#28B1C3,-38.4596056,-13.0052338
+POINT (-38.4760042 -12.9321007),Igreja Universal,,Centro religioso,#28B1C3,-38.4760042,-12.9321007
+POINT (-38.4766891 -13.0039643),Igreja Universal,,Centro religioso,#28B1C3,-38.4766891,-13.0039643
+POINT (-38.4442411 -12.9336591),Igreja Universal,,Centro religioso,#28B1C3,-38.4442411,-12.9336591
+POINT (-38.3625121 -12.938472),Igreja Universal,,Centro religioso,#28B1C3,-38.3625121,-12.938472
+POINT (-38.5151679 -12.9783526),Igreja Universal,,Centro religioso,#28B1C3,-38.5151679,-12.9783526
+POINT (-38.4904406 -12.9464549),Igreja Universal - Liberdade,,Centro religioso,#28B1C3,-38.4904406,-12.9464549
+POINT (-38.4452679 -12.9466457),Igreja Universal,,Centro religioso,#28B1C3,-38.4452679,-12.9466457
+POINT (-38.4707537 -12.9765347),Igreja Universal,,Centro religioso,#28B1C3,-38.4707537,-12.9765347
+POINT (-38.4795854 -12.942445),Igreja Universal,,Centro religioso,#28B1C3,-38.4795854,-12.942445
+POINT (-38.510355 -12.9727852),Catedral-Basílica Primacial de São Salvador,,Centro religioso,#28B1C3,-38.510355,-12.9727852
+POINT (-38.5019915 -12.9689958),Catedral da Bênção,,Centro religioso,#28B1C3,-38.5019915,-12.9689958
+POINT (-38.4672617 -12.9807913),Igreja Universal | Catedral,,Centro religioso,#28B1C3,-38.4672617,-12.9807913
+POINT (-38.3391733 -12.9434644),Cathedrall,,Centro religioso,#28B1C3,-38.3391733,-12.9434644
+POINT (-38.3474013 -12.9319875),Catedral dos Milagres Church,,Centro religioso,#28B1C3,-38.3474013,-12.9319875
+POINT (-38.51156439999999 -12.9809014),Padaria Piedade,,Padaria,#107F75,-38.51156439999999,-12.9809014
+POINT (-38.501116 -13.0069895),Padaria Sabor Real,,Padaria,#107F75,-38.501116,-13.0069895
+POINT (-38.50736360000001 -12.9792536),Padaria Sr. Afonso,,Padaria,#107F75,-38.50736360000001,-12.9792536
+POINT (-38.5199188 -12.9876554),Padaria Favorita,,Padaria,#107F75,-38.5199188,-12.9876554
+POINT (-38.5138807 -13.0015868),Padaria Mega Pão,,Padaria,#107F75,-38.5138807,-13.0015868
+POINT (-38.4627268 -13.0018586),Paneville Padaria Gourmet - Pituba Salvador,,Padaria,#107F75,-38.4627268,-13.0018586
+POINT (-38.5111029 -12.9763384),Padaria e mercado Paris,,Padaria,#107F75,-38.5111029,-12.9763384
+POINT (-38.3204825 -12.8789553),Padaria Novo Pão,,Padaria,#107F75,-38.3204825,-12.8789553
+POINT (-38.498176 -12.945856),Padaria Bom Gosto,,Padaria,#107F75,-38.498176,-12.945856
+POINT (-38.4857253 -13.0126144),Padaria Yemanjá,,Padaria,#107F75,-38.4857253,-13.0126144
+POINT (-38.5094604 -13.0075229),Ondina Delicatessen,,Padaria,#107F75,-38.5094604,-13.0075229
+POINT (-38.5193431 -12.9978816),Deli & Cia,,Padaria,#107F75,-38.5193431,-12.9978816
+POINT (-38.5172496 -13.0009639),Delicatessen Doce Pão,,Padaria,#107F75,-38.5172496,-13.0009639
+POINT (-38.461197 -12.9856658),Sampaio Delicatéssen,,Padaria,#107F75,-38.461197,-12.9856658
+POINT (-38.4337696 -12.964709),Clássica Delicatessen,,Padaria,#107F75,-38.4337696,-12.964709
+POINT (-38.4817686 -12.9885595),Deli e Pão,,Padaria,#107F75,-38.4817686,-12.9885595
+POINT (-38.4449799 -12.9857853),D’alinda Delicatessen,,Padaria,#107F75,-38.4449799,-12.9857853
+POINT (-38.3226005 -12.8953135),Delipani Delicatessen,,Padaria,#107F75,-38.3226005,-12.8953135
+POINT (-38.5302936 -13.0035447),Delicatessen Sabor do Porto,,Padaria,#107F75,-38.5302936,-13.0035447
+POINT (-38.3714246 -12.9492432),Pão da Vila Padocatessen,,Padaria,#107F75,-38.3714246,-12.9492432
+POINT (-38.51985089999999 -12.9861788),CNI - Curso de Informática Necrópsia e Profissionalizantes,,Centro de formação e educação,#EC2505,-38.51985089999999,-12.9861788
+POINT (-38.4820223 -12.988799),Centro de Treinamento Formar,,Centro de formação e educação,#EC2505,-38.4820223,-12.988799
+POINT (-38.35112589999999 -12.9138318),Auto Escola Veja,,Centro de formação e educação,#EC2505,-38.35112589999999,-12.9138318
+POINT (-38.4877694 -12.8991726),C.T.I - CENTRO DE TREINAMENTO INTEGRADO,,Centro de formação e educação,#EC2505,-38.4877694,-12.8991726
+POINT (-38.45544699999999 -13.005361),Evolução Centro de Capacitação,,Centro de formação e educação,#EC2505,-38.45544699999999,-13.005361
+POINT (-38.3084617 -12.8913273),Escola Vila Alegria,,Centro de formação e educação,#EC2505,-38.3084617,-12.8913273
+POINT (-38.3511052 -12.9109003),Escola Municipal Brigadeiro Eduardo Gomes.,,Centro de formação e educação,#EC2505,-38.3511052,-12.9109003
+POINT (-38.4550005 -12.9718187),Escola Educandário Sousa Brito I Pré -escolar I Escola particular I Ensino Fundamental I Pernambués Salvador Ba,,Centro de formação e educação,#EC2505,-38.4550005,-12.9718187
+POINT (-38.4575077 -12.9916642),Escola Lua Nova,,Centro de formação e educação,#EC2505,-38.4575077,-12.9916642
+POINT (-38.4980498 -12.9287164),ESCOLA ESTADUAL PROFESSORA OCRIDALINA MADUREIRA,,Centro de formação e educação,#EC2505,-38.4980498,-12.9287164
+POINT (-38.4689739 -12.9195621),Escola Municipal Campinas de Pirajá,,Centro de formação e educação,#EC2505,-38.4689739,-12.9195621
+POINT (-38.3323609 -12.9368626),Escola Gênesis | Stella Maris,,Centro de formação e educação,#EC2505,-38.3323609,-12.9368626
+POINT (-38.4564323 -12.9916601),Colégio Estadual Raphael Serravalle,,Centro de formação e educação,#EC2505,-38.4564323,-12.9916601
+POINT (-38.4339105 -12.9697422),Colégio Estadual Professor Rômulo Almeida,,Centro de formação e educação,#EC2505,-38.4339105,-12.9697422
+POINT (-38.4746288 -12.8884354),Escola Meu Jardim,,Centro de formação e educação,#EC2505,-38.4746288,-12.8884354
+POINT (-38.5058916 -12.9314889),Colegio Arte,,Centro de formação e educação,#EC2505,-38.5058916,-12.9314889
+POINT (-38.4479277 -12.9459275),Colégio Bom Jesus,,Centro de formação e educação,#EC2505,-38.4479277,-12.9459275
+POINT (-38.4949583 -12.9854856),Colégio Nossa Senhora da Conceição,,Centro de formação e educação,#EC2505,-38.4949583,-12.9854856
+POINT (-38.4787079 -12.9334987),Colégio Império do Saber,,Centro de formação e educação,#EC2505,-38.4787079,-12.9334987
+POINT (-38.4497828 -12.9964595),Colégio Cândido Portinari,,Centro de formação e educação,#EC2505,-38.4497828,-12.9964595
+POINT (-38.4892951 -12.9857679),Colégio Patrícia Lima,,Centro de formação e educação,#EC2505,-38.4892951,-12.9857679
+POINT (-38.4496435 -12.9994836),Colegio Integral - Portaria Principal,,Centro de formação e educação,#EC2505,-38.4496435,-12.9994836
+POINT (-38.4524659 -13.0021265),Colégio Anchieta,,Centro de formação e educação,#EC2505,-38.4524659,-13.0021265
+POINT (-38.4394345 -12.9644894),Colégio Paralela,,Centro de formação e educação,#EC2505,-38.4394345,-12.9644894
+POINT (-38.49120200000001 -12.9714654),Colégio Mundial,,Centro de formação e educação,#EC2505,-38.49120200000001,-12.9714654
+POINT (-38.4482233 -12.9600988),Colégio Estadual Governador Otávio Mangabeira,,Centro de formação e educação,#EC2505,-38.4482233,-12.9600988
+POINT (-38.4325016 -12.9014107),Colégio Estadual Professor Raymundo de Almeida Gouveia,,Centro de formação e educação,#EC2505,-38.4325016,-12.9014107
+POINT (-38.4490874 -12.9439),Colégio Estadual Helena Magalhaes,,Centro de formação e educação,#EC2505,-38.4490874,-12.9439
+POINT (-38.4591495 -12.8551689),Colégio Estadual Monteiro Lobato,,Centro de formação e educação,#EC2505,-38.4591495,-12.8551689
+POINT (-38.4870946 -12.8998854),Colégio Estadual de Plataforma,,Centro de formação e educação,#EC2505,-38.4870946,-12.8998854
+POINT (-38.4493138 -12.9973804),Colégio Estadual Thales de Azevedo,,Centro de formação e educação,#EC2505,-38.4493138,-12.9973804
+POINT (-38.4842544 -12.9918325),Colégio Estadual Luis Viana,,Centro de formação e educação,#EC2505,-38.4842544,-12.9918325
+POINT (-38.4868943 -12.9837115),Colégio Estadual Doutor Joao Pedro Dos Santos,,Centro de formação e educação,#EC2505,-38.4868943,-12.9837115
+POINT (-38.4438362 -12.9489432),Colégio Estadual Deputado Luis Eduardo Magalhaes,,Centro de formação e educação,#EC2505,-38.4438362,-12.9489432
+POINT (-38.4450222 -12.9850153),Colégio Estadual Carlos Marighella,,Centro de formação e educação,#EC2505,-38.4450222,-12.9850153
+POINT (-38.4023719 -12.8890597),ESCOLA ESTADUAL LUIZ JOSE DE OLIVEIRA,,Centro de formação e educação,#EC2505,-38.4023719,-12.8890597
+POINT (-38.4700807 -12.8392599),Colégio Estadual Sete De Setembro,,Centro de formação e educação,#EC2505,-38.4700807,-12.8392599
+POINT (-38.4481942 -12.9600921),Colégio Estadual Governador Otávio Mangabeira,,Centro de formação e educação,#EC2505,-38.4481942,-12.9600921
+POINT (-38.4761678 -12.9355729),Colégio Estadual Desembargador Pedro Ribeiro,,Centro de formação e educação,#EC2505,-38.4761678,-12.9355729
+POINT (-38.4325016 -12.9014107),Colégio Estadual Professor Raymundo de Almeida Gouveia,,Centro de formação e educação,#EC2505,-38.4325016,-12.9014107
+POINT (-38.4870946 -12.8998854),Colégio Estadual de Plataforma,,Centro de formação e educação,#EC2505,-38.4870946,-12.8998854
+POINT (-38.5298434 -13.0060164),Colégio Estadual João das Botas,,Centro de formação e educação,#EC2505,-38.5298434,-13.0060164
+POINT (-38.4075505 -12.8910779),Colégio Estadual Dona Mora Guimarães,,Centro de formação e educação,#EC2505,-38.4075505,-12.8910779
+POINT (-38.43581770000001 -12.9730423),Centro Educacional Imbuí,,Centro de formação e educação,#EC2505,-38.43581770000001,-12.9730423
+POINT (-38.43213110000001 -12.8910142),Centro de Educação Recanto Verde,,Centro de formação e educação,#EC2505,-38.43213110000001,-12.8910142
+POINT (-38.4380002 -12.929163),Centro Educacional São Marcos,,Centro de formação e educação,#EC2505,-38.4380002,-12.929163
+POINT (-38.3541292 -12.8863183),Centro Educacional Conhecimento,,Centro de formação e educação,#EC2505,-38.3541292,-12.8863183
+POINT (-38.4944201 -12.9529475),Centro Educacional SALES,,Centro de formação e educação,#EC2505,-38.4944201,-12.9529475
+POINT (-38.4001028 -12.8984681),Centro Educacional Educcar,,Centro de formação e educação,#EC2505,-38.4001028,-12.8984681
+POINT (-38.3771346 -12.9085874),Centro Educacional Andrade,,Centro de formação e educação,#EC2505,-38.3771346,-12.9085874
+POINT (-38.5118242 -12.9938896),Centro Educacional Edgard Santos,,Centro de formação e educação,#EC2505,-38.5118242,-12.9938896
+POINT (-38.4877605 -12.9621995),Centro Educacional Cidade Nova,,Centro de formação e educação,#EC2505,-38.4877605,-12.9621995
+POINT (-38.4629958 -12.9548628),Prime Profissionalizante,,Centro de formação e educação,#EC2505,-38.4629958,-12.9548628
+POINT (-38.4081847 -12.8995151),Instituto Mix - Salvador (Cajazeiras),,Centro de formação e educação,#EC2505,-38.4081847,-12.8995151
+POINT (-38.4637359 -12.9663276),Prepara Cursos Pernambués,,Centro de formação e educação,#EC2505,-38.4637359,-12.9663276
+POINT (-38.4431123 -12.9208804),Prepara Cursos,,Centro de formação e educação,#EC2505,-38.4431123,-12.9208804
+POINT (-38.3477565 -12.8945705),Realizar Profissões,,Centro de formação e educação,#EC2505,-38.3477565,-12.8945705
+POINT (-38.4716098 -12.840088),Instituto Bourbon de Educação - Paripe,,Centro de formação e educação,#EC2505,-38.4716098,-12.840088
+POINT (-38.52186369999999 -12.9876258),CEBRAC,,Centro de formação e educação,#EC2505,-38.52186369999999,-12.9876258
+POINT (-38.5067719 -12.9782795),Grau Profissionalizante - Salvador Fonte Nova,,Centro de formação e educação,#EC2505,-38.5067719,-12.9782795
+POINT (-38.4482332 -12.9891502),Sebrae Bahia - Sede Administrativa (BA),,Centro de formação e educação,#EC2505,-38.4482332,-12.9891502
+POINT (-38.4984914 -12.9381297),Sebrae Salvador - Uruguai/Itapagipe (BA),,Centro de formação e educação,#EC2505,-38.4984914,-12.9381297
+POINT (-38.51373220000001 -12.9830493),Sebrae Salvador - Center Lapa (BA),,Centro de formação e educação,#EC2505,-38.51373220000001,-12.9830493
+POINT (-38.4482002 -12.9891486),Sebrae Salvador - Agência Costa Azul,,Centro de formação e educação,#EC2505,-38.4482002,-12.9891486
+POINT (-38.4744252 -12.996371),Sebraelab Bahia,,Centro de formação e educação,#EC2505,-38.4744252,-12.996371
+POINT (-38.4744634 -12.996573),Sebrae Ecos,,Centro de formação e educação,#EC2505,-38.4744634,-12.996573
+POINT (-38.5016153 -12.9538319),Sesc São Joaquim,,Centro de formação e educação,#EC2505,-38.5016153,-12.9538319
+POINT (-38.5035299 -12.9757857),SESC Nazaré,,Centro de formação e educação,#EC2505,-38.5035299,-12.9757857
+POINT (-38.3874942 -12.954885),Sesc Piatã,,Centro de formação e educação,#EC2505,-38.3874942,-12.954885
+POINT (-38.5100089 -12.9700034),Sesc Comércio,,Centro de formação e educação,#EC2505,-38.5100089,-12.9700034
+POINT (-38.5044179 -12.9692904),Sesc Aquidaba,,Centro de formação e educação,#EC2505,-38.5044179,-12.9692904
+POINT (-38.5136371 -12.9758677),Sesc Rua Chile,,Centro de formação e educação,#EC2505,-38.5136371,-12.9758677
+POINT (-38.50909660000001 -12.9733679),Centro de Formação Profissional SESC,,Centro de formação e educação,#EC2505,-38.50909660000001,-12.9733679
+POINT (-38.501707 -12.9538047),Programa Mesa Brasil - Sesc Bahia,,Centro de formação e educação,#EC2505,-38.501707,-12.9538047
+POINT (-38.4562415 -12.9798499),Sesc Casa do Comércio,,Centro de formação e educação,#EC2505,-38.4562415,-12.9798499
+POINT (-38.4107435 -12.9376671),Centro Universitário Jorge Amado Campus Paralela,,Centro de formação e educação,#EC2505,-38.4107435,-12.9376671
+POINT (-38.3920763 -12.934439),UNIFTC - SALVADOR,,Centro de formação e educação,#EC2505,-38.3920763,-12.934439
+POINT (-38.4133785 -12.9485141),Universidade Católica do Salvador - UCSal,,Centro de formação e educação,#EC2505,-38.4133785,-12.9485141
+POINT (-38.4313397 -12.9611363),Centro Universitário UniRuy - Wyden,,Centro de formação e educação,#EC2505,-38.4313397,-12.9611363
+POINT (-38.4219937 -12.9695405),UNICEUSA - Centro Universitário de Salvador,,Centro de formação e educação,#EC2505,-38.4219937,-12.9695405
+POINT (-38.4319418 -12.9610877),Universidade Salvador - Campus Prof. Barros,,Centro de formação e educação,#EC2505,-38.4319418,-12.9610877
+POINT (-38.4503646 -12.9851962),UNIFACS Universidade Salvador - Campus Costa Azul,,Centro de formação e educação,#EC2505,-38.4503646,-12.9851962
+POINT (-38.4512179 -12.9815797),UNIFACS Campus Tancredo Neves,,Centro de formação e educação,#EC2505,-38.4512179,-12.9815797
+POINT (-38.4594595 -12.952777),Universidade do Estado da Bahia,,Centro de formação e educação,#EC2505,-38.4594595,-12.952777
+POINT (-38.4462826 -12.9813438),Estácio - Campus Gilberto Gil,,Centro de formação e educação,#EC2505,-38.4462826,-12.9813438
+POINT (-38.39207629999999 -12.934439),UNIFTC - SALVADOR,,Centro de formação e educação,#EC2505,-38.39207629999999,-12.934439
+POINT (-38.4995256 -12.9518961),Faculdade São Salvador,,Centro de formação e educação,#EC2505,-38.4995256,-12.9518961
+POINT (-38.4219937 -12.9695405),UNICEUSA - Centro Universitário de Salvador,,Centro de formação e educação,#EC2505,-38.4219937,-12.9695405
+POINT (-38.3945855 -12.9366876),Faculdade Unime Anhanguera de Salvador,,Centro de formação e educação,#EC2505,-38.3945855,-12.9366876
+POINT (-38.4107435 -12.9376671),Centro Universitário Jorge Amado Campus Paralela,,Centro de formação e educação,#EC2505,-38.4107435,-12.9376671
+POINT (-38.4730803 -12.990897),Universo Universidade Salgado de Oliveira - Salvador,,Centro de formação e educação,#EC2505,-38.4730803,-12.990897
+POINT (-38.4710535 -12.9799349),Faculdade Anhanguera - Iguatemi,,Centro de formação e educação,#EC2505,-38.4710535,-12.9799349
+POINT (-38.4462826 -12.9813438),Estácio - Campus Gilberto Gil,,Centro de formação e educação,#EC2505,-38.4462826,-12.9813438
+POINT (-38.4521471 -12.9951914),UNINASSAU - Salvador,,Centro de formação e educação,#EC2505,-38.4521471,-12.9951914
+POINT (-38.4313397 -12.9611363),Centro Universitário UniRuy - Wyden,,Centro de formação e educação,#EC2505,-38.4313397,-12.9611363
+POINT (-38.4219937 -12.9695405),UNICEUSA - Centro Universitário de Salvador,,Centro de formação e educação,#EC2505,-38.4219937,-12.9695405
+POINT (-38.4313397 -12.9611363),Centro Universitário UniRuy - Wyden,,Centro de formação e educação,#EC2505,-38.4313397,-12.9611363
+POINT (-38.4015758 -12.9594914),Centro Universitário UNIRB,,Centro de formação e educação,#EC2505,-38.4015758,-12.9594914
+POINT (-38.4107435 -12.9376671),Centro Universitário Jorge Amado Campus Paralela,,Centro de formação e educação,#EC2505,-38.4107435,-12.9376671
+POINT (-38.5124825 -12.9716687),Centro Universitário Dom Pedro II - Campus I,,Centro de formação e educação,#EC2505,-38.5124825,-12.9716687
+POINT (-38.5124237 -12.9702261),Centro Universitário UnidomPedro - Campus II,,Centro de formação e educação,#EC2505,-38.5124237,-12.9702261
+POINT (-38.5184887 -12.9855041),UNINASSAU - Centro Universitário Maurício de Nassau,,Centro de formação e educação,#EC2505,-38.5184887,-12.9855041
+POINT (-38.4463976 -12.9814679),Centro Universitário Estácio da Bahia - Estácio Bahia,,Centro de formação e educação,#EC2505,-38.4463976,-12.9814679
+POINT (-38.3217469 -12.7036855),Centro Universitário Internacional,,Centro de formação e educação,#EC2505,-38.3217469,-12.7036855
+POINT (-38.38713800000001 -12.938416),SENAI CIMATEC,,Centro de formação e educação,#EC2505,-38.38713800000001,-12.938416
+POINT (-38.38982499999999 -12.8978388),Hospital Municipal de Salvador (HMS),,Hospital,#F12F71,-38.38982499999999,-12.8978388
+POINT (-38.4506214 -12.9876887),Hospital da Bahia (HBA),,Hospital,#F12F71,-38.4506214,-12.9876887
+POINT (-38.5160595 -12.9979088),Hospital Santo Amaro (HSA),,Hospital,#F12F71,-38.5160595,-12.9979088
+POINT (-38.4302432 -12.9290754),Hospital São Rafael (HSR),,Hospital,#F12F71,-38.4302432,-12.9290754
+POINT (-38.4805858 -13.0014961),Hospital Aliança (HA),,Hospital,#F12F71,-38.4805858,-13.0014961
+POINT (-38.5114315 -12.9251253),Hospital da Sagrada Família (HSF),,Hospital,#F12F71,-38.5114315,-12.9251253
+POINT (-38.4887888 -12.9899647),Hospital de Brotas,,Hospital,#F12F71,-38.4887888,-12.9899647
+POINT (-38.4858162 -12.9587554),Hospital Especializado Octávio Mangabeira (HEOM),,Hospital,#F12F71,-38.4858162,-12.9587554
+POINT (-38.4505951 -12.9554436),Hospital Geral Roberto Santos (HGRS),,Hospital,#F12F71,-38.4505951,-12.9554436
+POINT (-38.50318350000001 -12.9717523),Hospital Santa Izabel,,Hospital,#F12F71,-38.50318350000001,-12.9717523
+POINT (-38.38692079999999 -12.9392813),Instituto SESI de Saúde e Segurança no Trabalho,,Hospital,#F12F71,-38.38692079999999,-12.9392813
+POINT (-38.4502824 -12.9840209),SESI Bahia,,Hospital,#F12F71,-38.4502824,-12.9840209
+POINT (-38.3867864 -12.9402231),Escola SESI Djalma Pessoa,,Hospital,#F12F71,-38.3867864,-12.9402231
+POINT (-38.502586 -12.9244832),Escola SESI Comendador Bernardo Martins Catharino,,Hospital,#F12F71,-38.502586,-12.9244832
+POINT (-38.47542929999999 -12.9507183),Escola SESI Reitor Miguel Calmon (SESI Retiro),,Hospital,#F12F71,-38.47542929999999,-12.9507183
+POINT (-38.5024178 -12.9237487),Centro Cultural SESI Casa Branca,,Hospital,#F12F71,-38.5024178,-12.9237487
+POINT (-38.51367219999999 -13.0005961),Mercado Central,,Mercado,#31838F,-38.51367219999999,-13.0005961
+POINT (-38.5196196 -12.9867891),Supermercado Novo Varejo em Salvador Mercado em Politeama Mercado Delivery,,Mercado,#31838F,-38.5196196,-12.9867891
+POINT (-38.5028131 -13.0077813),Mercado do Bonfim,,Mercado,#31838F,-38.5028131,-13.0077813
+POINT (-38.4767581 -13.0040024),Mercado Preço Baixo,,Mercado,#31838F,-38.4767581,-13.0040024
+POINT (-38.420282 -12.9721098),Mercado da Família,,Mercado,#31838F,-38.420282,-12.9721098
+POINT (-38.4991126 -13.009974),Mercado Padaria Vila Matos,,Mercado,#31838F,-38.4991126,-13.009974
+POINT (-38.4964058 -12.9352995),Mercado Novo,,Mercado,#31838F,-38.4964058,-12.9352995
+POINT (-38.511648 -12.929278),Mercado Boa Viagem,,Mercado,#31838F,-38.511648,-12.929278
+POINT (-38.3393455 -12.9381513),Mercado da Praça,,Mercado,#31838F,-38.3393455,-12.9381513
+POINT (-38.4575014 -12.9682702),Mercado Bom Dia,,Mercado,#31838F,-38.4575014,-12.9682702
+POINT (-38.4288558 -12.9779348),Atakarejo - Boca do Rio,,Mercado,#31838F,-38.4288558,-12.9779348
+POINT (-38.3787417 -12.9527976),Atakarejo - Piatã,,Mercado,#31838F,-38.3787417,-12.9527976
+POINT (-38.4705608 -12.9823185),Atakadão Atakarejo,,Mercado,#31838F,-38.4705608,-12.9823185
+POINT (-38.4137503 -12.9400713),Atakarejo - Paralela,,Mercado,#31838F,-38.4137503,-12.9400713
+POINT (-38.4606712 -12.949073),Atakarejo - Cabula,,Mercado,#31838F,-38.4606712,-12.949073
+POINT (-38.5012657 -12.9476874),Atakadão Atakarejo,,Mercado,#31838F,-38.5012657,-12.9476874
+POINT (-38.45784829999999 -12.9746545),Atakarejo - Pernambués,,Mercado,#31838F,-38.45784829999999,-12.9746545
+POINT (-38.3088011 -12.877192),Atakarejo - Lauro de Freitas,,Mercado,#31838F,-38.3088011,-12.877192
+POINT (-38.4443717 -12.9081089),Atakadão Atakarejo,,Mercado,#31838F,-38.4443717,-12.9081089
+POINT (-38.4814871 -12.9477377),Atakadão Atakarejo,,Mercado,#31838F,-38.4814871,-12.9477377
+POINT (-38.4133489 -12.9294688),Atacadão - Canabrava,,Mercado,#31838F,-38.4133489,-12.9294688
+POINT (-38.5105647 -12.9960486),Atacadão Garibaldi,,Mercado,#31838F,-38.5105647,-12.9960486
+POINT (-38.4744902 -12.9905455),Atacadão - Salvador ACM,,Mercado,#31838F,-38.4744902,-12.9905455
+POINT (-38.4582002 -12.9769571),Atacadão - Salvador Iguatemi,,Mercado,#31838F,-38.4582002,-12.9769571
+POINT (-38.4039059 -12.903849),Atacadão - Cajazeiras,,Mercado,#31838F,-38.4039059,-12.903849
+POINT (-38.4613547 -12.9526921),Atacadão - Salvador Cabula,,Mercado,#31838F,-38.4613547,-12.9526921
+POINT (-38.32571009999999 -12.8913757),Atacadão - Lauro de Freitas Caji,,Mercado,#31838F,-38.32571009999999,-12.8913757
+POINT (-38.4785895 -12.9672842),Atacadão - Salvador Barros Reis,,Mercado,#31838F,-38.4785895,-12.9672842
+POINT (-38.3100115 -12.8760242),Atacadão - Portão,,Mercado,#31838F,-38.3100115,-12.8760242
+POINT (-38.4934805 -12.9837888),Atacadão - Salvador Bonocô,,Mercado,#31838F,-38.4934805,-12.9837888
+POINT (-38.44307709999999 -12.9159031),GBarbosa,,Mercado,#31838F,-38.44307709999999,-12.9159031
+POINT (-38.3083233 -12.8854803),GBarbosa Lauro De Freitas,,Mercado,#31838F,-38.3083233,-12.8854803
+POINT (-38.4991816 -12.9824966),GBarbosa Engenho Velho de Brotas,,Mercado,#31838F,-38.4991816,-12.9824966
+POINT (-38.474811 -12.9707135),GBarbosa,,Mercado,#31838F,-38.474811,-12.9707135
+POINT (-38.4590883 -12.9454193),GBarbosa Cabula,,Mercado,#31838F,-38.4590883,-12.9454193
+POINT (-38.3535977 -12.9108277),EletroShow GBarbosa,,Mercado,#31838F,-38.3535977,-12.9108277
+POINT (-38.4812263 -12.9375643),Farmácia GBarbosa,,Mercado,#31838F,-38.4812263,-12.9375643
+POINT (-38.4485167 -12.9915934),GBarbosa Costa Azul,,Mercado,#31838F,-38.4485167,-12.9915934
+POINT (-38.4701585 -12.9797986),GBarbosa Hiper Iguatemi,,Mercado,#31838F,-38.4701585,-12.9797986
+POINT (-38.4048982 -12.9072398),Delicatessen Nova Estrela,,Mercado,#31838F,-38.4048982,-12.9072398
+POINT (-38.4169577 -12.9716621),Delicatessen Imperial,,Mercado,#31838F,-38.4169577,-12.9716621
+POINT (-38.46096199999999 -12.9752651),Esquina Do Pão Delicatessen,,Mercado,#31838F,-38.46096199999999,-12.9752651
+POINT (-38.3809081 -12.9518014),Delicatessen Point do Pão,,Mercado,#31838F,-38.3809081,-12.9518014
+POINT (-38.4781065 -12.9173965),Bella Massa Delicatessen,,Mercado,#31838F,-38.4781065,-12.9173965
+POINT (-38.459505 -12.9718787),DELICATESSEN PONTO CERTO,,Mercado,#31838F,-38.459505,-12.9718787
+POINT (-38.461197 -12.9856658),Sampaio Delicatéssen,,Mercado,#31838F,-38.461197,-12.9856658
+POINT (-38.4009923 -12.8994999),Delicatessen Doce Pão,,Mercado,#31838F,-38.4009923,-12.8994999
+POINT (-38.4496086 -12.9155889),Flor de Jardim Delicatessen,,Mercado,#31838F,-38.4496086,-12.9155889
+POINT (-38.4449799 -12.9857853),D’alinda Delicatessen,,Mercado,#31838F,-38.4449799,-12.9857853
+POINT (-38.4774716 -12.9957398),Empório Cidade Jardim,,Mercado,#31838F,-38.4774716,-12.9957398
+POINT (-38.4496858 -12.9851528),Empório Coisas de Minas Stiep - Salvador,,Mercado,#31838F,-38.4496858,-12.9851528
+POINT (-38.5121011 -13.0103756),Empório Coisas de Minas Unidade Ondina - Salvador,,Mercado,#31838F,-38.5121011,-13.0103756
+POINT (-38.4451876 -12.9546182),Empório,,Mercado,#31838F,-38.4451876,-12.9546182
+POINT (-38.460693 -13.001024),Empório Do Pão,,Mercado,#31838F,-38.460693,-13.001024
+POINT (-38.2978442 -12.8865277),Empório Coisas de Minas Vilas,,Mercado,#31838F,-38.2978442,-12.8865277
+POINT (-38.5089151 -12.9835467),EMPÓRIO DOS AMIGOS,,Mercado,#31838F,-38.5089151,-12.9835467
+POINT (-38.4647468 -12.9828886),Empório Flor de Laranjeira,,Mercado,#31838F,-38.4647468,-12.9828886
+POINT (-38.4781116 -12.9931166),Empório Santo Sabor,,Mercado,#31838F,-38.4781116,-12.9931166
+POINT (-38.517187 -12.994294),Empório Caroá,,Mercado,#31838F,-38.517187,-12.994294
+Praça Nossa Senhora da Assunção, Pituba,,Praça,#6FD2CB,,
+Praça do Campo Grande,,,Praça,#6FD2CB,,
+Praça Tereza Cristina Lustosa,,,Praça,#6FD2CB,,
+Praça Teodoro Gama,,,Praça,#6FD2CB,,
+Praça da Matriz,,,Praça,#6FD2CB,,
+Praça Nossa Senhora da Luz,,,Praça,#6FD2CB,,
+Praça da II,,,Praça,#6FD2CB,,
+Praça Aquarius,,,Praça,#6FD2CB,,
+Praça do Imbuí,,,Praça,#6FD2CB,,
+Praça dos Eucaliptos,,,Praça,#6FD2CB,,
+Parque dos Ventos,,,Praça,#6FD2CB,,
+Praça do setor 1,,,Praça,#6FD2CB,,
+Parque das Aves,,,Praça,#6FD2CB,,
+Praça da Quadra C,,,Praça,#6FD2CB,,
+Parque da Cidade Joventino Silva,,,Praça,#6FD2CB,,
+Praça Santos Dumont,,,Praça,#6FD2CB,,
+Praça Mirante dos Aflitos,,,Praça,#6FD2CB,,
+Praça Bom Samaritano,,,Praça,#6FD2CB,,
+Parque Praça do Boi,,,Praça,#6FD2CB,,
+Jardim dos Namorados,,,Praça,#6FD2CB,,
+Lagoa do Abaeté,,,Praça,#6FD2CB,,
+Lagoa Dos Patos,,,Praça,#6FD2CB,,
+Lagoa Parque Tropical,,,Praça,#6FD2CB,,
+Lagoa dos Patos,,,Praça,#6FD2CB,,
+Lagoa de Piatã,,,Praça,#6FD2CB,,
+Lagoa Alphaville I,,,Praça,#6FD2CB,,
+Bar Lagoa dos Frades,,,Praça,#6FD2CB,,
+Praça LAGOA DOS PATOS,,,Praça,#6FD2CB,,
+Lagoa de Nova Salvador,,,Praça,#6FD2CB,,
+Programa Mesa Brasil - Sesc Bahia,,,Praça,#6FD2CB,,
+POINT (-38.4001463 -12.9050187),Shopping Cajazeiras,,Shopping,#FEDB91,-38.4001463,-12.9050187
+POINT (-38.3949236 -12.9365263),Shopping Paralela,,Shopping,#FEDB91,-38.3949236,-12.9365263
+POINT (-38.455251 -12.9778603),Salvador Shopping,,Shopping,#FEDB91,-38.455251,-12.9778603
+POINT (-38.4746357 -12.9699536),Shopping Bela Vista,,Shopping,#FEDB91,-38.4746357,-12.9699536
+POINT (-38.4649511 -12.9812172),Shopping da Bahia,,Shopping,#FEDB91,-38.4649511,-12.9812172
+POINT (-38.46917639999999 -12.9956307),Shopping Cidade,,Shopping,#FEDB91,-38.46917639999999,-12.9956307
+POINT (-38.4909179 -12.9709153),Shopping Vila Laura,,Shopping,#FEDB91,-38.4909179,-12.9709153
+POINT (-38.4637594 -12.9962659),Shopping Itaigara,,Shopping,#FEDB91,-38.4637594,-12.9962659
+POINT (-38.3500732 -12.9123367),Shopping São Cristóvão,,Shopping,#FEDB91,-38.3500732,-12.9123367
+POINT (-38.3185516 -12.8876681),Parque Shopping Bahia,,Shopping,#FEDB91,-38.3185516,-12.8876681
+POINT (-38.3949236 -12.9365263),Shopping Paralela,,Shopping,#FEDB91,-38.3949236,-12.9365263
+POINT (-38.3851228 -12.9437911),Pátio piatã,,Shopping,#FEDB91,-38.3851228,-12.9437911
+POINT (-38.4044761 -12.9389079),Alpha Mall,,Shopping,#FEDB91,-38.4044761,-12.9389079
+POINT (-38.3915609 -12.9569553),Shopping Villarejo Mall,,Shopping,#FEDB91,-38.3915609,-12.9569553
+POINT (-38.3952434 -12.9365739),Saraiva,,Shopping,#FEDB91,-38.3952434,-12.9365739
+POINT (-38.3950328 -12.9369342),First Class Salvador - Cama mesa e banho - Shopping Paralela,,Shopping,#FEDB91,-38.3950328,-12.9369342
+POINT (-38.369327 -12.9462066),Itapuã Center,,Shopping,#FEDB91,-38.369327,-12.9462066
+POINT (-38.36553869999999 -12.9428285),Bahia Shopping,,Shopping,#FEDB91,-38.36553869999999,-12.9428285
+POINT (-38.4001463 -12.9050187),Shopping Cajazeiras,,Shopping,#FEDB91,-38.4001463,-12.9050187
+POINT (-38.3513333 -12.9083785),Salvador Norte Shopping,,Shopping,#FEDB91,-38.3513333,-12.9083785
+POINT (-38.30122929999999 -12.8690166),Centro Comercial Portão,,Shopping,#FEDB91,-38.30122929999999,-12.8690166
+POINT (-38.3424039 -12.9388878),Centro Comercial Alamedas da Praia,,Shopping,#FEDB91,-38.3424039,-12.9388878
+POINT (-38.3506968 -12.9111116),Centro comercial são cristovão,,Shopping,#FEDB91,-38.3506968,-12.9111116
+POINT (-38.4617437 -13.0008261),Centro Comercial Jardim Pituba,,Shopping,#FEDB91,-38.4617437,-13.0008261
+POINT (-38.4361705 -12.9284117),Centro Comercial São Marcos,,Shopping,#FEDB91,-38.4361705,-12.9284117
+POINT (-38.3650195 -12.949554),Centro Comercial ÁGUIA,,Shopping,#FEDB91,-38.3650195,-12.949554
+POINT (-38.3250033 -12.8907707),Centro Comercial Gre Center,,Shopping,#FEDB91,-38.3250033,-12.8907707
+POINT (-38.4468304 -12.9534747),Centro Comercial Narandiba,,Shopping,#FEDB91,-38.4468304,-12.9534747
+POINT (-38.42524170000001 -12.9771572),Centro comercial bocadório,,Shopping,#FEDB91,-38.42524170000001,-12.9771572
+POINT (-38.4188373 -12.9169684),Centro Comercial Nossa Senhora de Fátima,,Shopping,#FEDB91,-38.4188373,-12.9169684
+POINT (-38.4785841 -12.9864975),Centro Comercial de Brotas,,Shopping,#FEDB91,-38.4785841,-12.9864975
+POINT (-38.3506968 -12.9111116),Centro comercial são cristovão,,Shopping,#FEDB91,-38.3506968,-12.9111116
+POINT (-38.5193251 -12.9864371),CENTRO COMERCIAL POLITEAMA,,Shopping,#FEDB91,-38.5193251,-12.9864371
+POINT (-38.4617437 -13.0008261),Centro Comercial Jardim Pituba,,Shopping,#FEDB91,-38.4617437,-13.0008261
+POINT (-38.3012986 -12.8690311),Centro Comercial Portão,,Shopping,#FEDB91,-38.3012986,-12.8690311
+POINT (-38.4953914 -12.9499211),Centro Comercial Liberdade,,Shopping,#FEDB91,-38.4953914,-12.9499211
+POINT (-38.4925017 -13.0013854),Centro Comercial Santa Madalena,,Shopping,#FEDB91,-38.4925017,-13.0013854
+POINT (-38.4468304 -12.9534747),Centro Comercial Narandiba,,Shopping,#FEDB91,-38.4468304,-12.9534747
+POINT (-38.3650195 -12.949554),Centro Comercial ÁGUIA,,Shopping,#FEDB91,-38.3650195,-12.949554
+POINT (-38.3424039 -12.9388878),Centro Comercial Alamedas da Praia,,Shopping,#FEDB91,-38.3424039,-12.9388878
+POINT (-38.4953914 -12.9499211),Centro Comercial Liberdade,,Shopping,#FEDB91,-38.4953914,-12.9499211
+POINT (-38.4617437 -13.0008261),Centro Comercial Jardim Pituba,,Shopping,#FEDB91,-38.4617437,-13.0008261
+POINT (-38.4785841 -12.9864975),Centro Comercial de Brotas,,Shopping,#FEDB91,-38.4785841,-12.9864975
+POINT (-38.5193251 -12.9864371),CENTRO COMERCIAL POLITEAMA,,Shopping,#FEDB91,-38.5193251,-12.9864371
+POINT (-38.3012986 -12.8690311),Centro Comercial Portão,,Shopping,#FEDB91,-38.3012986,-12.8690311
+POINT (-38.4925017 -13.0013854),Centro Comercial Santa Madalena,,Shopping,#FEDB91,-38.4925017,-13.0013854
+POINT (-38.3424039 -12.9388878),Centro Comercial Alamedas da Praia,,Shopping,#FEDB91,-38.3424039,-12.9388878
+POINT (-38.3506968 -12.9111116),Centro comercial são cristovão,,Shopping,#FEDB91,-38.3506968,-12.9111116
+POINT (-38.4361705 -12.9284117),Centro Comercial São Marcos,,Shopping,#FEDB91,-38.4361705,-12.9284117
+POINT (-38.3650195 -12.949554),Centro Comercial ÁGUIA,,Shopping,#FEDB91,-38.3650195,-12.949554
+POINT (-38.4953914 -12.9499211),Centro Comercial Liberdade,,Shopping,#FEDB91,-38.4953914,-12.9499211
+POINT (-38.4617437 -13.0008261),Centro Comercial Jardim Pituba,,Shopping,#FEDB91,-38.4617437,-13.0008261
+POINT (-38.4785841 -12.9864975),Centro Comercial de Brotas,,Shopping,#FEDB91,-38.4785841,-12.9864975
+POINT (-38.5193251 -12.9864371),CENTRO COMERCIAL POLITEAMA,,Shopping,#FEDB91,-38.5193251,-12.9864371
+POINT (-38.3012986 -12.8690311),Centro Comercial Portão,,Shopping,#FEDB91,-38.3012986,-12.8690311
+POINT (-38.4925017 -13.0013854),Centro Comercial Santa Madalena,,Shopping,#FEDB91,-38.4925017,-13.0013854
+POINT (-38.3424039 -12.9388878),Centro Comercial Alamedas da Praia,,Shopping,#FEDB91,-38.3424039,-12.9388878
+POINT (-38.3506968 -12.9111116),Centro comercial são cristovão,,Shopping,#FEDB91,-38.3506968,-12.9111116
+POINT (-38.4361705 -12.9284117),Centro Comercial São Marcos,,Shopping,#FEDB91,-38.4361705,-12.9284117
+POINT (-38.3650195 -12.949554),Centro Comercial ÁGUIA,,Shopping,#FEDB91,-38.3650195,-12.949554
+POINT (-38.46917639999999 -12.9956307),Shopping Cidade,,Shopping,#FEDB91,-38.46917639999999,-12.9956307
+POINT (-38.3015995 -12.8848248),Shopping Center Villaverde Street Mall,,Shopping,#FEDB91,-38.3015995,-12.8848248
+POINT (-38.455251 -12.9778603),Salvador Shopping,,Shopping,#FEDB91,-38.455251,-12.9778603
+POINT (-38.4001463 -12.9050187),Shopping Cajazeiras,,Shopping,#FEDB91,-38.4001463,-12.9050187
+POINT (-38.4995256 -12.9518961),Shopping Liberdade,,Shopping,#FEDB91,-38.4995256,-12.9518961
+POINT (-38.4382016 -12.9686482),Shopping Imbuí Plaza,,Shopping,#FEDB91,-38.4382016,-12.9686482
+POINT (-38.524003 -12.9898357),Vitória Boulevard,,Shopping,#FEDB91,-38.524003,-12.9898357
+POINT (-38.4415179 -12.9681474),SHOPPING AMAZÔNIA,,Shopping,#FEDB91,-38.4415179,-12.9681474
+POINT (-38.3949236 -12.9365263),Shopping Paralela,,Shopping,#FEDB91,-38.3949236,-12.9365263
+POINT (-38.4649511 -12.9812172),Shopping da Bahia,,Shopping,#FEDB91,-38.4649511,-12.9812172
+POINT (-38.4746357 -12.9699536),Shopping Bela Vista,,Shopping,#FEDB91,-38.4746357,-12.9699536
+POINT (-38.3949236 -12.9365263),Shopping Paralela,,Shopping,#FEDB91,-38.3949236,-12.9365263
+POINT (-38.455251 -12.9778603),Salvador Shopping,,Shopping,#FEDB91,-38.455251,-12.9778603
+POINT (-38.46917639999999 -12.9956307),Shopping Cidade,,Shopping,#FEDB91,-38.46917639999999,-12.9956307
+POINT (-38.4001463 -12.9050187),Shopping Cajazeiras,,Shopping,#FEDB91,-38.4001463,-12.9050187
+POINT (-38.3290833 -12.8958505),Shopinng Ponto Verde,,Shopping,#FEDB91,-38.3290833,-12.8958505
+POINT (-38.4909179 -12.9709153),Shopping Vila Laura,,Shopping,#FEDB91,-38.4909179,-12.9709153
+POINT (-38.4637594 -12.9962659),Shopping Itaigara,,Shopping,#FEDB91,-38.4637594,-12.9962659
+POINT (-38.3500732 -12.9123367),Shopping São Cristóvão,,Shopping,#FEDB91,-38.3500732,-12.9123367
+POINT (-38.3949236 -12.9365263),Shopping Paralela,,Shopping,#FEDB91,-38.3949236,-12.9365263
+POINT (-38.455251 -12.9778603),Salvador Shopping,,Shopping,#FEDB91,-38.455251,-12.9778603
+POINT (-38.4649511 -12.9812172),Shopping da Bahia,,Shopping,#FEDB91,-38.4649511,-12.9812172
+POINT (-38.3513333 -12.9083785),Salvador Norte Shopping,,Shopping,#FEDB91,-38.3513333,-12.9083785
+POINT (-38.4001463 -12.9050187),Shopping Cajazeiras,,Shopping,#FEDB91,-38.4001463,-12.9050187
+POINT (-38.3185516 -12.8876681),Parque Shopping Bahia,,Shopping,#FEDB91,-38.3185516,-12.8876681
+POINT (-38.3500732 -12.9123367),Shopping São Cristóvão,,Shopping,#FEDB91,-38.3500732,-12.9123367
+POINT (-38.2675412 -12.8250571),Outlet Premium Salvador,,Shopping,#FEDB91,-38.2675412,-12.8250571
+POINT (-38.3065885 -12.8752936),Shopping Estrada do Coco,,Shopping,#FEDB91,-38.3065885,-12.8752936
+POINT (-38.5130701 -12.9835518),Shopping Piedade,,Shopping,#FEDB91,-38.5130701,-12.9835518

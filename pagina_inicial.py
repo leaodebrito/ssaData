@@ -25,8 +25,3 @@ def mostrar():
 
 
         st.divider()
-
-        st.write("""
-                Projeto em desenvolvimento por:
-                - Bruno Leão de Brito
-        """)
