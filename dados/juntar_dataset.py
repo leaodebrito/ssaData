@@ -61,5 +61,6 @@ df['latitude'] = df['latitude'].astype(float)
 
 print(df)
 
+df = df.drop_duplicates()
 
 df.to_csv('dados/dataset_equip_urb_salvador.csv', index=False)
