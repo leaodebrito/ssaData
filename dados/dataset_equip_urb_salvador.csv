@@ -146,7 +146,7 @@ POINT (-38.5035299 -12.9757857),SESC Nazaré,,Centro de formação e educação,
 POINT (-38.3874942 -12.954885),Sesc Piatã,,Centro de formação e educação,#EC2505,-38.3874942,-12.954885
 POINT (-38.5100089 -12.9700034),Sesc Comércio,,Centro de formação e educação,#EC2505,-38.5100089,-12.9700034
 POINT (-38.5044179 -12.9692904),Sesc Aquidaba,,Centro de formação e educação,#EC2505,-38.5044179,-12.9692904
-POINT (-38.5136371 -12.9758677),Sesc Rua Chile,,Centro de formação e educação,#EC2505,-38.5136371,-12.9758677
+POINT (-38.5136371 -12.9758677),Sesc Rua Chile telefone não atende,,Centro de formação e educação,#EC2505,-38.5136371,-12.9758677
 POINT (-38.50909660000001 -12.9733679),Centro de Formação Profissional SESC,,Centro de formação e educação,#EC2505,-38.50909660000001,-12.9733679
 POINT (-38.501707 -12.9538047),Programa Mesa Brasil - Sesc Bahia,,Centro de formação e educação,#EC2505,-38.501707,-12.9538047
 POINT (-38.4562415 -12.9798499),Sesc Casa do Comércio,,Centro de formação e educação,#EC2505,-38.4562415,-12.9798499
@@ -173,13 +173,200 @@ POINT (-38.4313397 -12.9611363),Centro Universitário UniRuy - Wyden,,Centro de 
 POINT (-38.4219937 -12.9695405),UNICEUSA - Centro Universitário de Salvador,,Centro de formação e educação,#EC2505,-38.4219937,-12.9695405
 POINT (-38.4313397 -12.9611363),Centro Universitário UniRuy - Wyden,,Centro de formação e educação,#EC2505,-38.4313397,-12.9611363
 POINT (-38.4015758 -12.9594914),Centro Universitário UNIRB,,Centro de formação e educação,#EC2505,-38.4015758,-12.9594914
-POINT (-38.4107435 -12.9376671),Centro Universitário Jorge Amado Campus Paralela,,Centro de formação e educação,#EC2505,-38.4107435,-12.9376671
 POINT (-38.5124825 -12.9716687),Centro Universitário Dom Pedro II - Campus I,,Centro de formação e educação,#EC2505,-38.5124825,-12.9716687
 POINT (-38.5124237 -12.9702261),Centro Universitário UnidomPedro - Campus II,,Centro de formação e educação,#EC2505,-38.5124237,-12.9702261
 POINT (-38.5184887 -12.9855041),UNINASSAU - Centro Universitário Maurício de Nassau,,Centro de formação e educação,#EC2505,-38.5184887,-12.9855041
 POINT (-38.4463976 -12.9814679),Centro Universitário Estácio da Bahia - Estácio Bahia,,Centro de formação e educação,#EC2505,-38.4463976,-12.9814679
-POINT (-38.3217469 -12.7036855),Centro Universitário Internacional,,Centro de formação e educação,#EC2505,-38.3217469,-12.7036855
 POINT (-38.38713800000001 -12.938416),SENAI CIMATEC,,Centro de formação e educação,#EC2505,-38.38713800000001,-12.938416
+POINT (-38.4873747 -13.0127216),Colégio Estadual Euricles de Matos,,Centro de formação e educação,#EC2505,-38.4873747,-13.0127216
+POINT (-38.4874607 -13.0108916),Escola Sempre Viva,,Centro de formação e educação,#EC2505,-38.4874607,-13.0108916
+POINT (-38.4936788 -13.0105571),Escola Medalha Milagrosa,,Centro de formação e educação,#EC2505,-38.4936788,-13.0105571
+POINT (-38.5000463 -13.0107373),Escola Municipal Ana Nery,,Centro de formação e educação,#EC2505,-38.5000463,-13.0107373
+POINT (-38.4858155 -13.0082638),Escola Caramelo,,Centro de formação e educação,#EC2505,-38.4858155,-13.0082638
+POINT (-38.4806132 -13.009408),Escola Geração Eleita,,Centro de formação e educação,#EC2505,-38.4806132,-13.009408
+POINT (-38.4841857 -13.0112953),Escola Vanguarda Educação Infantil,,Centro de formação e educação,#EC2505,-38.4841857,-13.0112953
+POINT (-38.4874488 -13.0130888),Escola Municipal Osvaldo Cruz,,Centro de formação e educação,#EC2505,-38.4874488,-13.0130888
+POINT (-38.4985747 -13.0082497),Colégio Passos do Saber,,Centro de formação e educação,#EC2505,-38.4985747,-13.0082497
+POINT (-38.4917632 -13.0099061),Escola Municipal Senhora Santana,,Centro de formação e educação,#EC2505,-38.4917632,-13.0099061
+POINT (-38.4689724 -13.0060481),Colégio Estadual Polivalente De Amaralina,,Centro de formação e educação,#EC2505,-38.4689724,-13.0060481
+POINT (-38.4794711 -13.0119542),Escola Adventista de Amaralina,,Centro de formação e educação,#EC2505,-38.4794711,-13.0119542
+POINT (-38.474078 -13.0126701),ESCOLA ESPELHO MEU,,Centro de formação e educação,#EC2505,-38.474078,-13.0126701
+POINT (-38.4721038 -13.00716),Escola Passos do Saber,,Centro de formação e educação,#EC2505,-38.4721038,-13.00716
+POINT (-38.472384 -13.0126048),CMEI Amaralina,,Centro de formação e educação,#EC2505,-38.472384,-13.0126048
+POINT (-38.4685548 -13.0056804),Escola Municipal Zulmira Torres,,Centro de formação e educação,#EC2505,-38.4685548,-13.0056804
+POINT (-38.47318629999999 -13.0104581),Escola Professor Bernadino Moreira,,Centro de formação e educação,#EC2505,-38.47318629999999,-13.0104581
+POINT (-38.4745557 -13.0122191),Escola Casa de Belém,,Centro de formação e educação,#EC2505,-38.4745557,-13.0122191
+POINT (-38.47244329999999 -13.0121858),Escola Kily Kids,,Centro de formação e educação,#EC2505,-38.47244329999999,-13.0121858
+POINT (-38.4780966 -13.008241),E.P.A. Escola por Princípios de Amaralina,,Centro de formação e educação,#EC2505,-38.4780966,-13.008241
+POINT (-38.47568220000001 -13.0076404),Escola Colombo,,Centro de formação e educação,#EC2505,-38.47568220000001,-13.0076404
+POINT (-38.4759092 -13.0032404),Escola Municipal Teodoro Sampaio,,Centro de formação e educação,#EC2505,-38.4759092,-13.0032404
+POINT (-38.4763145 -13.004343),Escola Moranguinho e Sua Turma,,Centro de formação e educação,#EC2505,-38.4763145,-13.004343
+POINT (-38.4738231 -13.0073446),Escola Municipal Santo André,,Centro de formação e educação,#EC2505,-38.4738231,-13.0073446
+POINT (-38.4789235 -13.0076042),ESCOLA HORIZONTES DO SABER,,Centro de formação e educação,#EC2505,-38.4789235,-13.0076042
+POINT (-38.4725851 -13.0051689),Escola Municipal Sao Pedro Nolasco,,Centro de formação e educação,#EC2505,-38.4725851,-13.0051689
+POINT (-38.47837860000001 -13.0007335),Escola Municipal Cristo E Vida,,Centro de formação e educação,#EC2505,-38.47837860000001,-13.0007335
+POINT (-38.4827439 -13.0060126),Escola Municipal Vale Das Pedrinhas,,Centro de formação e educação,#EC2505,-38.4827439,-13.0060126
+POINT (-38.4776673 -13.0020845),Escola Municipal Artur De Sales,,Centro de formação e educação,#EC2505,-38.4776673,-13.0020845
+POINT (-38.4746701 -13.0034551),Escola Municipal Artur De Sales,,Centro de formação e educação,#EC2505,-38.4746701,-13.0034551
+POINT (-38.4956563 -13.001794),Colégio Engenho Velho Da Federação,,Centro de formação e educação,#EC2505,-38.4956563,-13.001794
+POINT (-38.4951057 -12.9984423),Engenho Velho da Federação,,Centro de formação e educação,#EC2505,-38.4951057,-12.9984423
+POINT (-38.4957457 -12.9955889),Escola Municipal Engenho Velho Da Federacao,,Centro de formação e educação,#EC2505,-38.4957457,-12.9955889
+POINT (-38.4816957 -12.9942543),Escola Sol do Candeal,,Centro de formação e educação,#EC2505,-38.4816957,-12.9942543
+POINT (-38.4820104 -12.9943481),Escola Emanuel,,Centro de formação e educação,#EC2505,-38.4820104,-12.9943481
+POINT (-38.4839971 -12.9919247),Colégio Estadual Manoel Vitorino - Tempo Integral,,Centro de formação e educação,#EC2505,-38.4839971,-12.9919247
+POINT (-38.4833571 -12.9964078),Centro Municipal De Educacao Infantil Virgem De La Almudena,,Centro de formação e educação,#EC2505,-38.4833571,-12.9964078
+POINT (-38.4810284 -12.9935458),Reforço Escolar Recanto do Saber,,Centro de formação e educação,#EC2505,-38.4810284,-12.9935458
+POINT (-38.4868945 -12.9950401),Colégio Bom Pastor,,Centro de formação e educação,#EC2505,-38.4868945,-12.9950401
+POINT (-38.4822143 -12.995575),Escola Profissional de Músicos de Rua Pracatum,,Centro de formação e educação,#EC2505,-38.4822143,-12.995575
+POINT (-38.4822215 -12.9952991),Pracatum Inglês,,Centro de formação e educação,#EC2505,-38.4822215,-12.9952991
+POINT (-38.4842544 -12.9918325),Colégio Estadual Luis Viana,,Centro de formação e educação,#EC2505,-38.4842544,-12.9918325
+POINT (-38.4814108 -12.995271),DAIANE FERREIRA ENGENHEIRA CIVIL,,Centro de formação e educação,#EC2505,-38.4814108,-12.995271
+POINT (-38.50285929999999 -13.0055526),Colégio Estadual Evaristo Da Veiga - Tempo Integral,,Centro de formação e educação,#EC2505,-38.50285929999999,-13.0055526
+POINT (-38.5032775 -13.0064128),Escola Municipal Sao Domingos Savio,,Centro de formação e educação,#EC2505,-38.5032775,-13.0064128
+POINT (-38.5082661 -13.0062251),Centro de Educação Especial da Bahia CEEBA,,Centro de formação e educação,#EC2505,-38.5082661,-13.0062251
+POINT (-38.5081047 -13.0099986),Colégio Carpe Diem - Ondina,,Centro de formação e educação,#EC2505,-38.5081047,-13.0099986
+POINT (-38.5127854 -13.0093874),Escola Dorilândia,,Centro de formação e educação,#EC2505,-38.5127854,-13.0093874
+POINT (-38.4676008 -12.9738133),Creche Escola Nossa Senhora Das Gracas,,Centro de formação e educação,#EC2505,-38.4676008,-12.9738133
+POINT (-38.49805300000001 -12.9681137),Escola Nossa Senhora das Graças,,Centro de formação e educação,#EC2505,-38.49805300000001,-12.9681137
+POINT (-38.4957853 -12.987485),Centro Municipal De Educacao Infantil Iacy Vaz Fagundes,,Centro de formação e educação,#EC2505,-38.4957853,-12.987485
+POINT (-38.5185962 -12.9973029),CCAA Graça,,Centro de formação e educação,#EC2505,-38.5185962,-12.9973029
+POINT (-38.5196007 -12.9979847),Pequenópolis,,Centro de formação e educação,#EC2505,-38.5196007,-12.9979847
+POINT (-38.52140329999999 -12.9973808),inFlux Salvador Graça: Cursos de Inglês Espanhol Idiomas em Bahia,,Centro de formação e educação,#EC2505,-38.52140329999999,-12.9973808
+POINT (-38.5252034 -12.9965535),Centro Municipal De Educacao Infantil Nossa Senhora Da Vitoria,,Centro de formação e educação,#EC2505,-38.5252034,-12.9965535
+POINT (-38.52680959999999 -12.9978819),R.Teixeira Leal 10-G,,Centro de formação e educação,#EC2505,-38.52680959999999,-12.9978819
+POINT (-38.522687 -13.0004767),Vila Zebalusky - Centro Infantil de Arte e Linguagem,,Centro de formação e educação,#EC2505,-38.522687,-13.0004767
+POINT (-38.5230787 -13.0030383),Escola Kimimo,,Centro de formação e educação,#EC2505,-38.5230787,-13.0030383
+POINT (-38.5253705 -13.0043366),Escola Pantheon,,Centro de formação e educação,#EC2505,-38.5253705,-13.0043366
+POINT (-38.52628789999999 -13.0044878),Arte & Manha Escola e Creche,,Centro de formação e educação,#EC2505,-38.52628789999999,-13.0044878
+POINT (-38.5217103 -13.0072684),Colégio Miró,,Centro de formação e educação,#EC2505,-38.5217103,-13.0072684
+POINT (-38.52871359999999 -13.0088479),Escola Movimento - Aulas particulares de inglês espanhol português e redação,,Centro de formação e educação,#EC2505,-38.52871359999999,-13.0088479
+POINT (-38.52815559999999 -13.0049395),IEM - Instituto de Educação Musical,,Centro de formação e educação,#EC2505,-38.52815559999999,-13.0049395
+POINT (-38.5307388 -13.0054378),OGW Centro de Treinamento Esportivo,,Centro de formação e educação,#EC2505,-38.5307388,-13.0054378
+POINT (-38.53278780000001 -13.0031312),Escolinha de futevôlei porto da barra: Team junior,,Centro de formação e educação,#EC2505,-38.53278780000001,-13.0031312
+POINT (-38.5284433 -13.0015796),Equipe Bae,,Centro de formação e educação,#EC2505,-38.5284433,-13.0015796
+POINT (-38.47799719999999 -12.9836646),Colégio Ponto Alto - Brotas e São Rafael,,Centro de formação e educação,#EC2505,-38.47799719999999,-12.9836646
+POINT (-38.4946973 -12.9793465),Educandário Nova Geracao,,Centro de formação e educação,#EC2505,-38.4946973,-12.9793465
+POINT (-38.49910389999999 -12.9807998),Colégio Resgate - Brotas,,Centro de formação e educação,#EC2505,-38.49910389999999,-12.9807998
+POINT (-38.5005961 -12.9809431),Escola Municipal Visconde De Cairu De Brotas,,Centro de formação e educação,#EC2505,-38.5005961,-12.9809431
+POINT (-38.4905697 -12.9891084),Escola Borboleta Pintora,,Centro de formação e educação,#EC2505,-38.4905697,-12.9891084
+POINT (-38.4983413 -12.9909883),COLÉGIO ÓPERA,,Centro de formação e educação,#EC2505,-38.4983413,-12.9909883
+POINT (-38.49194589999999 -12.9940789),Escola Arco-Íris,,Centro de formação e educação,#EC2505,-38.49194589999999,-12.9940789
+POINT (-38.48316259999999 -12.9888837),Escola Ponto de Partida,,Centro de formação e educação,#EC2505,-38.48316259999999,-12.9888837
+POINT (-38.4788086 -12.9812795),Escola Mundo Encantado,,Centro de formação e educação,#EC2505,-38.4788086,-12.9812795
+POINT (-38.50047469999999 -13.0013485),Escola Casa Via Magia,,Centro de formação e educação,#EC2505,-38.50047469999999,-13.0013485
+POINT (-38.50094889999999 -13.0025361),Escolinha Mundo dos Sonhos,,Centro de formação e educação,#EC2505,-38.50094889999999,-13.0025361
+POINT (-38.49581839999999 -12.9996106),Escola Nossa Infância,,Centro de formação e educação,#EC2505,-38.49581839999999,-12.9996106
+POINT (-38.50461689999999 -12.9977365),Escola Motivar,,Centro de formação e educação,#EC2505,-38.50461689999999,-12.9977365
+POINT (-38.5103015 -12.9996338),Escola Politécnica da UFBA,,Centro de formação e educação,#EC2505,-38.5103015,-12.9996338
+POINT (-38.505825 -12.9950447),Escola Ana Bela,,Centro de formação e educação,#EC2505,-38.505825,-12.9950447
+POINT (-38.50097400000001 -12.9934737),Escol,,Centro de formação e educação,#EC2505,-38.50097400000001,-12.9934737
+POINT (-38.512241 -12.9977854),Escola Municipal Professor Antonio Carlos Onofre,,Centro de formação e educação,#EC2505,-38.512241,-12.9977854
+POINT (-38.50403389999999 -12.9922845),Escola Municipal Madre Judite,,Centro de formação e educação,#EC2505,-38.50403389999999,-12.9922845
+POINT (-38.49129939999999 -12.9729916),Educandário Helita Vieira - Vila Laura,,Centro de formação e educação,#EC2505,-38.49129939999999,-12.9729916
+POINT (-38.4914372 -12.9723575),Escola Risque e Rabisque,,Centro de formação e educação,#EC2505,-38.4914372,-12.9723575
+POINT (-38.4908048 -12.9718667),Escola Experimental,,Centro de formação e educação,#EC2505,-38.4908048,-12.9718667
+POINT (-38.4899445 -12.9716398),Escola Experimental Pré Escolar,,Centro de formação e educação,#EC2505,-38.4899445,-12.9716398
+POINT (-38.49156939999999 -12.9716916),Escola APRIMORA,,Centro de formação e educação,#EC2505,-38.49156939999999,-12.9716916
+POINT (-38.48794559999999 -12.9695204),ISO,,Centro de formação e educação,#EC2505,-38.48794559999999,-12.9695204
+POINT (-38.4888871 -12.9701683),Colégio Estadual Frederico Costa,,Centro de formação e educação,#EC2505,-38.4888871,-12.9701683
+POINT (-38.49193269999999 -12.9707211),Berçário e Escola Venha Mundo,,Centro de formação e educação,#EC2505,-38.49193269999999,-12.9707211
+POINT (-38.486211 -12.975686),Escola Municipal Luiz Anselmo,,Centro de formação e educação,#EC2505,-38.486211,-12.975686
+POINT (-38.51163159999999 -12.9820606),Escola Municipal Cosme De Farias,,Centro de formação e educação,#EC2505,-38.51163159999999,-12.9820606
+POINT (-38.4889409 -12.9812631),Colegio Estadual Cosme De Farias,,Centro de formação e educação,#EC2505,-38.4889409,-12.9812631
+POINT (-38.4901583 -12.9527088),Escola Municipal Pero Vaz Velho,,Centro de formação e educação,#EC2505,-38.4901583,-12.9527088
+POINT (-38.488838 -12.9536399),Centro Educacional Tempestade de Esperança,,Centro de formação e educação,#EC2505,-38.488838,-12.9536399
+POINT (-38.4875409 -12.9547278),Colegio Cidade,,Centro de formação e educação,#EC2505,-38.4875409,-12.9547278
+POINT (-38.4865824 -12.9551343),Centro Educacional Carneiro Ribeiro - Classe II,,Centro de formação e educação,#EC2505,-38.4865824,-12.9551343
+POINT (-38.4947028 -12.9583484),Escola Trenzinho da Alegria,,Centro de formação e educação,#EC2505,-38.4947028,-12.9583484
+POINT (-38.4907232 -12.9518273),Centro Educacional Carneiro Ribeiro - Classe I,,Centro de formação e educação,#EC2505,-38.4907232,-12.9518273
+POINT (-38.5070111 -12.9324412),SENAI Dendezeiros,,Centro de formação e educação,#EC2505,-38.5070111,-12.9324412
+POINT (-38.4736574 -12.8700402),Escola Municipal de Periperi,,Centro de formação e educação,#EC2505,-38.4736574,-12.8700402
+POINT (-38.467598 -12.8739133),Escola Municipal Mirantes De Periperi,,Centro de formação e educação,#EC2505,-38.467598,-12.8739133
+POINT (-38.47688470000001 -12.865275),Escola Municipal Anfilófio de Carvalho professores,,Centro de formação e educação,#EC2505,-38.47688470000001,-12.865275
+POINT (-38.4719818 -12.8670912),Escola Santo Inácio,,Centro de formação e educação,#EC2505,-38.4719818,-12.8670912
+POINT (-38.4724148 -12.863898),Instituto Social Pindorama,,Centro de formação e educação,#EC2505,-38.4724148,-12.863898
+POINT (-38.47158339999999 -12.8643356),Colégio Célestin Freinet,,Centro de formação e educação,#EC2505,-38.47158339999999,-12.8643356
+POINT (-38.47050749999999 -12.8647349),Escola Bem Me Quer,,Centro de formação e educação,#EC2505,-38.47050749999999,-12.8647349
+POINT (-38.4724715 -12.8655149),Colégio Viver Educação,,Centro de formação e educação,#EC2505,-38.4724715,-12.8655149
+POINT (-38.4719818 -12.8670912),Colégio Estadual Nelson Mandela,,Centro de formação e educação,#EC2505,-38.4719818,-12.8670912
+POINT (-38.47190819999999 -12.8666279),Creche e Pré-escola Primeiro Passo Periperi,,Centro de formação e educação,#EC2505,-38.47190819999999,-12.8666279
+POINT (-38.4833224 -12.9020556),CENTRO EDUCACIONAL RAIMUNDO NONATO COSTA,,Centro de formação e educação,#EC2505,-38.4833224,-12.9020556
+POINT (-38.4738069 -12.8969658),EBA - EDUCANDÁRIO BORBOLETA AZUL,,Centro de formação e educação,#EC2505,-38.4738069,-12.8969658
+POINT (-38.4814497 -12.88978),escola barilandia,,Centro de formação e educação,#EC2505,-38.4814497,-12.88978
+POINT (-38.47772889999999 -12.8899264),Colégio Estadual Josias De Almeida Melo,,Centro de formação e educação,#EC2505,-38.47772889999999,-12.8899264
+POINT (-38.481098 -12.8916097),Colégio Jorge Amado,,Centro de formação e educação,#EC2505,-38.481098,-12.8916097
+POINT (-38.4776995 -12.8910546),Escola Antonio Cordeiro,,Centro de formação e educação,#EC2505,-38.4776995,-12.8910546
+POINT (-38.4863717 -12.8948767),Rua da areia plataforma,,Centro de formação e educação,#EC2505,-38.4863717,-12.8948767
+POINT (-38.486968 -12.8975757),Centro Educacional Carvalho Pessoa,,Centro de formação e educação,#EC2505,-38.486968,-12.8975757
+POINT (-38.48962459999999 -12.8994992),Escola Municipal de Plataforma,,Centro de formação e educação,#EC2505,-38.48962459999999,-12.8994992
+POINT (-38.4925069 -12.9479243),Escola Municipal Piraja Da Silva,,Centro de formação e educação,#EC2505,-38.4925069,-12.9479243
+POINT (-38.45844779999999 -12.903601),Escola Municipal Campinas De Piraja,,Centro de formação e educação,#EC2505,-38.45844779999999,-12.903601
+POINT (-38.4659243 -12.9017788),Escola Municipal General Labatut,,Centro de formação e educação,#EC2505,-38.4659243,-12.9017788
+POINT (-38.4652189 -12.9018108),Escola Teodoro Sampaio,,Centro de formação e educação,#EC2505,-38.4652189,-12.9018108
+POINT (-38.4611758 -12.9019851),Escola Tio Patinhas,,Centro de formação e educação,#EC2505,-38.4611758,-12.9019851
+POINT (-38.4597952 -12.8978933),Escola Municipal Profª Alexandrina Santos Pita,,Centro de formação e educação,#EC2505,-38.4597952,-12.8978933
+POINT (-38.45231619999999 -12.8946627),Centro Educacional Evolução Infantil,,Centro de formação e educação,#EC2505,-38.45231619999999,-12.8946627
+POINT (-38.45604679999999 -12.8931282),Colégio Estadual Cesare Casali,,Centro de formação e educação,#EC2505,-38.45604679999999,-12.8931282
+POINT (-38.48061560000001 -12.9396307),Escola Dom Avelar Brandao Vilela,,Centro de formação e educação,#EC2505,-38.48061560000001,-12.9396307
+POINT (-38.44911189999999 -12.9035137),Escola Municipal D Isabel Brandao Vilela,,Centro de formação e educação,#EC2505,-38.44911189999999,-12.9035137
+POINT (-38.4493827 -12.903759),Colégio Estadual Conselheiro Vicente Pacheco De Oliveira,,Centro de formação e educação,#EC2505,-38.4493827,-12.903759
+POINT (-38.44737360000001 -12.9046226),centro educacional ideal,,Centro de formação e educação,#EC2505,-38.44737360000001,-12.9046226
+POINT (-38.444861 -12.9045253),Escola Passos Para O Futuro,,Centro de formação e educação,#EC2505,-38.444861,-12.9045253
+POINT (-38.44776469999999 -12.9013221),Colégio estilo,,Centro de formação e educação,#EC2505,-38.44776469999999,-12.9013221
+POINT (-38.44900989999999 -12.9031556),Centro Municipal De Educacao Infantil Anival Razoni Figueiredo,,Centro de formação e educação,#EC2505,-38.44900989999999,-12.9031556
+POINT (-38.446804 -12.9019982),Dom Avelar,,Centro de formação e educação,#EC2505,-38.446804,-12.9019982
+POINT (-38.445362 -12.902428),Escola Cantinho do Guri,,Centro de formação e educação,#EC2505,-38.445362,-12.902428
+POINT (-38.44779289999999 -12.9008742),Clube de Mães de Dom Avelar - Educandário e Creche Renovação,,Centro de formação e educação,#EC2505,-38.44779289999999,-12.9008742
+POINT (-38.4380123 -12.9061299),Escola Municipal de Castelo Branco,,Centro de formação e educação,#EC2505,-38.4380123,-12.9061299
+POINT (-38.442459 -12.90421),Colégio Adventista de Castelo Branco,,Centro de formação e educação,#EC2505,-38.442459,-12.90421
+POINT (-38.4422199 -12.9039898),Escola Classe-Centro de Aprendizagem,,Centro de formação e educação,#EC2505,-38.4422199,-12.9039898
+POINT (-38.4407971 -12.9027663),Escola boa semente,,Centro de formação e educação,#EC2505,-38.4407971,-12.9027663
+POINT (-38.4404312 -12.9035006),Escola Municipal Arlete Magalhães,,Centro de formação e educação,#EC2505,-38.4404312,-12.9035006
+POINT (-38.4349921 -12.9084226),Centro Municipal De Educacao Infantil Unidos De Castelo Branco,,Centro de formação e educação,#EC2505,-38.4349921,-12.9084226
+POINT (-38.40076919999999 -12.8992899),Escola Municipal Fazenda Grande Ii Ministro Carlos Santana,,Centro de formação e educação,#EC2505,-38.40076919999999,-12.8992899
+POINT (-38.40200759999999 -12.9004121),Colégio Superior LTDA,,Centro de formação e educação,#EC2505,-38.40200759999999,-12.9004121
+POINT (-38.39423219999999 -12.9082263),Centro Educacional Titânia,,Centro de formação e educação,#EC2505,-38.39423219999999,-12.9082263
+POINT (-38.41135149999999 -12.89519),Educandário Novo Ensino - ENE,,Centro de formação e educação,#EC2505,-38.41135149999999,-12.89519
+POINT (-38.4214524 -12.8942762),Escola Municipal Elysio Athayde,,Centro de formação e educação,#EC2505,-38.4214524,-12.8942762
+POINT (-38.42404880000001 -12.8982319),Colégio Estadual Edvaldo Brandao Correia,,Centro de formação e educação,#EC2505,-38.42404880000001,-12.8982319
+POINT (-38.41159349999999 -12.8861447),Escola Municipal De Cajazeiras Xi,,Centro de formação e educação,#EC2505,-38.41159349999999,-12.8861447
+POINT (-38.40488699999999 -12.8808827),ESCOLA RECANTO FLORESTAL,,Centro de formação e educação,#EC2505,-38.40488699999999,-12.8808827
+POINT (-38.4160113 -12.8852134),Escola Municipal Professor Manoel De Almeida Cruz,,Centro de formação e educação,#EC2505,-38.4160113,-12.8852134
+POINT (-38.4065782 -12.89481),Colégio Evolução,,Centro de formação e educação,#EC2505,-38.4065782,-12.89481
+POINT (-38.3623829 -12.9154229),Escola Santos Nobre,,Centro de formação e educação,#EC2505,-38.3623829,-12.9154229
+POINT (-38.3664196 -12.9148502),Escola Municipal Pe Manuel Correia De Souza,,Centro de formação e educação,#EC2505,-38.3664196,-12.9148502
+POINT (-38.36686389999999 -12.917938),Colégio Yeshua,,Centro de formação e educação,#EC2505,-38.36686389999999,-12.917938
+POINT (-38.3639524 -12.917929),Colégio Fischer,,Centro de formação e educação,#EC2505,-38.3639524,-12.917929
+POINT (-38.3633259 -12.9191591),Escola Projeção,,Centro de formação e educação,#EC2505,-38.3633259,-12.9191591
+POINT (-38.36450989999999 -12.9170001),Escola Municipal Celia Nogueira,,Centro de formação e educação,#EC2505,-38.36450989999999,-12.9170001
+POINT (-38.3638283 -12.9165537),Colégio Estadual Raul Sá,,Centro de formação e educação,#EC2505,-38.3638283,-12.9165537
+POINT (-38.3627322 -12.916064),Escola Líderes do Amanhã,,Centro de formação e educação,#EC2505,-38.3627322,-12.916064
+POINT (-38.3614809 -12.9162445),Colégio Estadual Pinto de Aguiar,,Centro de formação e educação,#EC2505,-38.3614809,-12.9162445
+POINT (-38.3638883 -12.9123893),Escola Ana Maria Poppovic,,Centro de formação e educação,#EC2505,-38.3638883,-12.9123893
+POINT (-38.4216588 -12.9157471),Escola Maria Yasmim,,Centro de formação e educação,#EC2505,-38.4216588,-12.9157471
+POINT (-38.4173664 -12.917656),Colégio Evo,,Centro de formação e educação,#EC2505,-38.4173664,-12.917656
+POINT (-38.4215945 -12.9192494),Escola Municipal Profª Irene Da Silva Costa Santos,,Centro de formação e educação,#EC2505,-38.4215945,-12.9192494
+POINT (-38.4196807 -12.9094661),CMEI Antonio Noberto B C Filho,,Centro de formação e educação,#EC2505,-38.4196807,-12.9094661
+POINT (-38.419136 -12.909593),Escola Tecendo O Saber,,Centro de formação e educação,#EC2505,-38.419136,-12.909593
+POINT (-38.42002009999999 -12.9109316),Empresarial Arena jardim,,Centro de formação e educação,#EC2505,-38.42002009999999,-12.9109316
+POINT (-38.4209313 -12.9136898),Educandário Costa Figueiredo,,Centro de formação e educação,#EC2505,-38.4209313,-12.9136898
+POINT (-38.419398 -12.9145607),ESCOLA DE EDUCACAO CORDEIRINHO DE CRISTO,,Centro de formação e educação,#EC2505,-38.419398,-12.9145607
+POINT (-38.41895 -12.912774),Escola Espaço Infantil,,Centro de formação e educação,#EC2505,-38.41895,-12.912774
+POINT (-38.4179387 -12.9121353),Jardim Nova Esperanca,,Centro de formação e educação,#EC2505,-38.4179387,-12.9121353
+POINT (-38.4359724 -12.9284005),Escola Municipal São Marcos,,Centro de formação e educação,#EC2505,-38.4359724,-12.9284005
+POINT (-38.42436129999999 -12.9358218),Colégio São Rafael,,Centro de formação e educação,#EC2505,-38.42436129999999,-12.9358218
+POINT (-38.4420013 -12.9208059),Escola Municipal De Sao Marcos,,Centro de formação e educação,#EC2505,-38.4420013,-12.9208059
+POINT (-38.4417259 -12.9232618),Escola Marissol,,Centro de formação e educação,#EC2505,-38.4417259,-12.9232618
+POINT (-38.4346068 -12.9249321),Creche E Pre Escola Primeiro Passo Sao Marcos,,Centro de formação e educação,#EC2505,-38.4346068,-12.9249321
+POINT (-38.42436129999999 -12.9358218),Colégio São Rafael,,Centro de formação e educação,#EC2505,-38.42436129999999,-12.9358218
+POINT (-38.4384822 -12.9427156),Escola Municipal Novo Horizonte,,Centro de formação e educação,#EC2505,-38.4384822,-12.9427156
+POINT (-38.4398069 -12.938225),Colégio SuperAção - A Confiança que você procura e o Carinho que seu filho merece,,Centro de formação e educação,#EC2505,-38.4398069,-12.938225
+POINT (-38.4376621 -12.9431518),ESCOLA WALDEMAR DOCÍLIO NOVO HORIZONTE,,Centro de formação e educação,#EC2505,-38.4376621,-12.9431518
+POINT (-38.4645744 -12.9333548),Escola Municipal São Miguel,,Centro de formação e educação,#EC2505,-38.4645744,-12.9333548
+POINT (-38.4697019 -12.9435261),Escola tempo do saber,,Centro de formação e educação,#EC2505,-38.4697019,-12.9435261
+POINT (-38.4595577 -12.9365542),Centro Educacional Jardim Pampulha,,Centro de formação e educação,#EC2505,-38.4595577,-12.9365542
+POINT (-38.4557611 -12.9277802),GEOP - Grupo Especializado em Operações Penitenciárias,,Centro de formação e educação,#EC2505,-38.4557611,-12.9277802
+POINT (-38.46164559999999 -12.9308428),Centro Educacional Donald Viana,,Centro de formação e educação,#EC2505,-38.46164559999999,-12.9308428
 POINT (-38.38982499999999 -12.8978388),Hospital Municipal de Salvador (HMS),,Hospital,#F12F71,-38.38982499999999,-12.8978388
 POINT (-38.4506214 -12.9876887),Hospital da Bahia (HBA),,Hospital,#F12F71,-38.4506214,-12.9876887
 POINT (-38.5160595 -12.9979088),Hospital Santo Amaro (HSA),,Hospital,#F12F71,-38.5160595,-12.9979088
@@ -196,6 +383,34 @@ POINT (-38.3867864 -12.9402231),Escola SESI Djalma Pessoa,,Hospital,#F12F71,-38.
 POINT (-38.502586 -12.9244832),Escola SESI Comendador Bernardo Martins Catharino,,Hospital,#F12F71,-38.502586,-12.9244832
 POINT (-38.47542929999999 -12.9507183),Escola SESI Reitor Miguel Calmon (SESI Retiro),,Hospital,#F12F71,-38.47542929999999,-12.9507183
 POINT (-38.5024178 -12.9237487),Centro Cultural SESI Casa Branca,,Hospital,#F12F71,-38.5024178,-12.9237487
+POINT (-38.4810893 -12.9469689),UPA 24h San Martin,,Hospital,#F12F71,-38.4810893,-12.9469689
+POINT (-38.4801327 -12.9865128),UPA Brotas,,Hospital,#F12F71,-38.4801327,-12.9865128
+POINT (-38.4609509 -12.9265608),UPA Pirajá / Santo Inácio,,Hospital,#F12F71,-38.4609509,-12.9265608
+POINT (-38.4757889 -12.9353774),UPA São Caetano,,Hospital,#F12F71,-38.4757889,-12.9353774
+POINT (-38.4872509 -12.9590152),UPA Pau miudo - 16º Centro de Saúde Maria Conceição Imbassahy,,Hospital,#F12F71,-38.4872509,-12.9590152
+POINT (-38.4727809 -12.8680588),UPA Periperi,,Hospital,#F12F71,-38.4727809,-12.8680588
+POINT (-38.4319833 -12.9732661),UPA Imbuí,,Hospital,#F12F71,-38.4319833,-12.9732661
+POINT (-38.3644306 -12.9070827),UPA Parque São Cristovão,,Hospital,#F12F71,-38.3644306,-12.9070827
+POINT (-38.3663472 -12.9489895),UPA Dr. Hélio Machado,,Hospital,#F12F71,-38.3663472,-12.9489895
+POINT (-38.5117741 -12.9898479),UPA Vale dos Barris,,Hospital,#F12F71,-38.5117741,-12.9898479
+POINT (-38.40665730000001 -12.9027949),CAPS Ii - Nise Da Silveira,,Hospital,#F12F71,-38.40665730000001,-12.9027949
+POINT (-38.4706007 -12.9248727),CAPS AD III Gey Espinheira,,Hospital,#F12F71,-38.4706007,-12.9248727
+POINT (-38.5004697 -12.9855937),CAPS II Aristides Novis,,Hospital,#F12F71,-38.5004697,-12.9855937
+POINT (-38.3283025 -12.8899059),CAPS AD Lauro de Freitas,,Hospital,#F12F71,-38.3283025,-12.8899059
+POINT (-38.4647338 -12.9687564),CAPS Ad Pernambues,,Hospital,#F12F71,-38.4647338,-12.9687564
+POINT (-38.4831891 -12.9522649),CAPS II Liberdade (ADULTO),,Hospital,#F12F71,-38.4831891,-12.9522649
+POINT (-38.3281122 -12.891182),Caps Ad Santo Amaro De Ipitanga,,Hospital,#F12F71,-38.3281122,-12.891182
+POINT (-38.4609 -12.9710844),Centro de Saúde de Pernambués Dr. Edison Teixeira Barbosa,,Hospital,#F12F71,-38.4609,-12.9710844
+POINT (-38.43442 -12.9246672),Unidade de Saúde da Família São Marcos,,Hospital,#F12F71,-38.43442,-12.9246672
+POINT (-38.4305088 -12.9353408),Unidade de Saúde da Família Gal Costa,,Hospital,#F12F71,-38.4305088,-12.9353408
+POINT (-38.5135579 -12.9716953),Secretaria Municipal De Saúde De Salvador,,Hospital,#F12F71,-38.5135579,-12.9716953
+POINT (-38.3360001 -12.8920266),Unidade de Saúde da Família São Judas Tadeu,,Hospital,#F12F71,-38.3360001,-12.8920266
+POINT (-38.4297485 -12.963141),Unidade de Saúde da Família Imbuí (USF IMBUÍ),,Hospital,#F12F71,-38.4297485,-12.963141
+POINT (-38.3222993 -12.8903896),Policlinica Mais Saúde,,Hospital,#F12F71,-38.3222993,-12.8903896
+POINT (-38.44680779999999 -12.9457083),Clinica Saúde da Família,,Hospital,#F12F71,-38.44680779999999,-12.9457083
+POINT (-38.49433409999999 -12.95732),Clínica Saúde +,,Hospital,#F12F71,-38.49433409999999,-12.95732
+POINT (-38.42207949999999 -12.8896327),Hospital Professor Eládio Lassére (HPEL),,Hospital,#F12F71,-38.42207949999999,-12.8896327
+POINT (-38.45678270000001 -12.8648584),Hospital do Subúrbio,,Hospital,#F12F71,-38.45678270000001,-12.8648584
 POINT (-38.51367219999999 -13.0005961),Mercado Central,,Mercado,#31838F,-38.51367219999999,-13.0005961
 POINT (-38.5196196 -12.9867891),Supermercado Novo Varejo em Salvador Mercado em Politeama Mercado Delivery,,Mercado,#31838F,-38.5196196,-12.9867891
 POINT (-38.5028131 -13.0077813),Mercado do Bonfim,,Mercado,#31838F,-38.5028131,-13.0077813
