@@ -51,6 +51,10 @@ Os datasets utilizados estão na pasta `dados/`:
 - `dataset_salvador.csv` — dados sociodemográficos dos bairros (Censo 2010)
 - `dataset_equip_urb_salvador.csv` — equipamentos urbanos georreferenciados
 
+## Licença
+
+Este projeto está licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — use, adapte e compartilhe com atribuição ao autor.
+
 ## Autor
 
 Bruno Leão de Brito
