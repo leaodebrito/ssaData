@@ -11,8 +11,7 @@ import pandas as pd
 import numpy as np
 
 import funcoes_elementos_interface.graficos as graph
-
-
+from pathlib import Path
 
 
 def mostrar():
@@ -20,7 +19,7 @@ def mostrar():
     st.write("Plataforma para análise de dados sócio-demográficos dos bairros de Salvador")
 
     # Carregar dados
-    df = pd.read_csv('dados/dataset_salvador.csv')
+    df = pd.read_csv(Path(__file__).parent / 'dados' / 'dataset_salvador.csv')
 
 
     # Selecionar bairro

@@ -3,9 +3,10 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pydeck as pdk
+from pathlib import Path
 
 def mostrar():
-    file = 'dados/dataset_equip_urb_salvador.csv'
+    file = Path(__file__).parent / 'dados' / 'dataset_equip_urb_salvador.csv'
     df = pd.read_csv(file)
 
     st.title("Equipamentos Urbanos")
@@ -22,6 +23,10 @@ def mostrar():
     
 # Filtrando o DataFrame corretamente
     df_equipamentos = df[df['Tipo'].isin(selecionados)]
+
+    if df_equipamentos.empty:
+        st.info("Selecione ao menos um tipo de equipamento para visualizar no mapa.")
+        return
 
     st.map(df_equipamentos, latitude='latitude', longitude='longitude', color='cor', size=100, use_container_width=True, height= 800)
 
